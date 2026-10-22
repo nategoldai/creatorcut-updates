@@ -23,6 +23,6 @@ Save a named preset to reuse that video’s style. Lasting editing preferences s
 
 ## Updates
 
-Use the same installation link every time. Existing users install new versions with **Install update** inside CreatorCut. It checks when the app starts and every six hours while open. Your videos, presets and editing memory stay on your computer.
+Use the same installation link every time. Existing users install new versions with **Download new version** inside CreatorCut. It checks when the app starts and every six hours while open. Your videos, presets and editing memory stay on your computer.
 
 The package stored here is public. Customer recordings, projects, accounts and personal presets are not included.

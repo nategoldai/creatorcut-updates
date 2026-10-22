@@ -26,8 +26,11 @@ def safe_name(name):
         raise ValueError('Unsafe package path')
     return p
 
-def fetch(url, limit, expected=None):
-    request = urllib.request.Request(url, headers={'User-Agent': 'CreatorCut-Installer', 'Cache-Control': 'no-cache'})
+def fetch(url, limit, expected=None, accept=None):
+    headers={'User-Agent': 'CreatorCut-Installer', 'Cache-Control': 'no-cache'}
+    if accept:
+        headers['Accept']=accept
+    request = urllib.request.Request(url, headers=headers)
     started = time.monotonic()
     with urllib.request.urlopen(request, timeout=30) as response:
         from urllib.parse import urlsplit
@@ -56,7 +59,9 @@ def download():
         raise ValueError('Invalid publisher package metadata')
     if not raw.startswith('https://raw.githubusercontent.com/' + REPOSITORY + '/'):
         raise ValueError('Unexpected publisher address')
-    payload = fetch(raw + ('&' if '?' in raw else '?') + 'creatorcut_blob=' + blob, MAX_ZIP, size)
+    # Pin the Git object: branch/CDN propagation cannot mix old bytes with new metadata.
+    payload = fetch('https://api.github.com/repos/' + REPOSITORY + '/git/blobs/' + blob,
+                    MAX_ZIP, size, accept='application/vnd.github.raw+json')
     if hashlib.sha1(('blob ' + str(len(payload)) + '\0').encode() + payload).hexdigest() != blob:
         raise ValueError('Publisher package changed during download; retry installation')
     return payload
