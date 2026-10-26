@@ -10,7 +10,7 @@ Open **Codex desktop** or **Claude Code on your computer**. Copy this sentence i
 
 That’s it. Your AI handles the download and setup, then opens Studio. You don’t need to download a ZIP or learn GitHub.
 
-First setup needs internet, several GB of storage and time to download the editing tools. CreatorCut uses **your own signed-in Codex account and its usage limits**, including when you open it from Claude Code. A Claude subscription alone does not supply this editor. Ordinary mobile/web chats without local computer tools cannot install this desktop application.
+First setup needs internet, several GB of storage and time to download the editing tools. CreatorCut automatically uses **your own account for the AI app you install it in**: Claude in Claude Code, or Codex in Codex desktop. Normal account limits and sign-in requirements apply. Ordinary mobile/web chats without local computer tools cannot install this desktop application.
 
 ## Make your first video
 
