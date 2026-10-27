@@ -1,5 +1,16 @@
 # Install CreatorCut in the current desktop AI host
 
+## Beginner install messages — required
+The customer is a complete beginner. Keep technical checks in tool output and local logs, not chat.
+- Welcome: “I’ll set up CreatorCut and open it when it’s ready. This may take a few minutes.”
+- While working: at most one short sentence per update, normally 45–60 seconds apart. Examples: “Downloading the video tools.” / “Getting your editor ready.” / “Checking everything before opening Studio.” Match real progress; no invented percentages or ETA.
+- Finish only after required checks and the visible Studio pass: “CreatorCut is ready. Enter your name in Studio, then add your footage.” Maximum two short sentences.
+- No headings, bullet reports, package names, file paths, port numbers, exit codes, download inventories, hash/health-check explanations or repeated installation summaries unless the customer asks for them. Do not narrate a deliberately stopped progress card as an error.
+- A real action needed from the customer gets one plain-language explanation and the specific action. Keep security consent accurate; never suppress a genuine permission request or hide a real failure.
+- Never end with “I’ll wait for it to finish” while leaving setup unattended. Continue the task until ready or a concrete human action is required.
+- Naming is already authorized. Rename the dedicated installation chat CREATORCUT before downloads using the supported host rename tool, foreground /rename command, or exposed computer-use rename control. Verify it. Do not ask “Tell me if you want that.” Do not create a new session just to name it. Preserve a later manual customer rename. If no supported naming capability exists, report that once, briefly; do not invent success or edit private host databases.
+
+
 The customer has asked to install CreatorCut. Handle the file steps for them. Do not ask them to download/unzip the package manually or clone this delivery repository.
 
 1. Immediately inspect and rename the dedicated installation chat CREATORCUT regardless of its initial message wording using the supported host title tool; follow the installed one-time naming rules and preserve later customer renames. Do not merely announce a name change. If naming is unsupported, say so briefly. Then explain briefly that first setup downloads local editing tools, needs internet and several GB, and automatically uses the customer’s account for the current host, with its normal usage limits. Respect normal host permissions. Do not imply ordinary web/mobile chat can run a local desktop application.
