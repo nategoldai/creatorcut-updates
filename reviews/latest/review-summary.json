@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-31",
+  "kind": "source review only",
+  "version": "2.7.19 candidate",
+  "files": 783,
+  "zip_bytes": 2792626,
+  "zip_sha256": "d36dfc141f6d1611a3761f35061f7417de8afa56f0851cad91803e3656a5c676",
+  "private_customer_data_included": false,
+  "customer_installer_replaced": false,
+  "remaining_acceptance": [
+    "Claude paste backup UI",
+    "native closed-chat/reopen integration",
+    "native download file-save completion",
+    "current-source release admission/build"
+  ]
+}

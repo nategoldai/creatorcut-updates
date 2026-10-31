@@ -1,0 +1,1794 @@
+{
+  "kit/studio/app/tour-man.jpg": {
+    "sha256": "d44f4aa08ac842593e4fcbdaec76c353610f482ddeadf6cebc2066f514f8541f",
+    "bytes": 40192
+  },
+  "kit/studio/app/tour-landscape.jpg": {
+    "sha256": "4fd4d11eeda41d7db966176c31e15daebc61180d03919214c565c9a3922b32c4",
+    "bytes": 18162
+  },
+  "kit/studio/app/tour-woman.jpg": {
+    "sha256": "a238d0504967d4f657f4e34c1660f32345033ea7f48916395793438da4930cca",
+    "bytes": 37484
+  },
+  "kit/studio/app/previews/look-color-block.jpg": {
+    "sha256": "2502afe69b6c78537f4a5a18c1cb374d47aa1e76a3c2b955d426e74b309f9f18",
+    "bytes": 10159
+  },
+  "kit/studio/app/previews/effect-spatial-glass.mp4": {
+    "sha256": "f69d8692394606b721e4b5749d9a8b21773fbfe23ff3fd0f6ce29382625c9bc0",
+    "bytes": 872174
+  },
+  "kit/studio/app/previews/effect-before-and-after.jpg": {
+    "sha256": "d8cbad37e857e96b5f40864d8e3731158520bd38f8b125d3102ccfaea4d779d2",
+    "bytes": 96674
+  },
+  "kit/studio/app/previews/effect-glass-type.jpg": {
+    "sha256": "bb6c3938a3955057b1094c28005223cd8ea5c86a628dbcace9353526764aad2c",
+    "bytes": 40981
+  },
+  "kit/studio/app/previews/caption-bold.mp4": {
+    "sha256": "1a053ebfd54c621d4ec0d2e20e62ec96efdfc3941bde0a70003cfb7c26ab591e",
+    "bytes": 1015471
+  },
+  "kit/studio/app/previews/colour-bright.mp4": {
+    "sha256": "451b1cb94d5db9196fb5dae4968ac93f76b35392c16d7534d312eb5f77b1fbe8",
+    "bytes": 671892
+  },
+  "kit/studio/app/previews/caption-low-key.mp4": {
+    "sha256": "d65b1aebb19ae99868fd604f7899ac9c236372ddd713b2f3d45f4475c2327270",
+    "bytes": 1003438
+  },
+  "kit/studio/app/previews/effect-pointer-callout.mp4": {
+    "sha256": "d35b9f0c96f3289f3a6d78d0f90b6862be2f7220db67f521672a966eb463386d",
+    "bytes": 1025833
+  },
+  "kit/studio/app/previews/caption-loud-lowercase.jpg": {
+    "sha256": "eec9e419f129a9f7f3d901501929f325d73bb11bdfb293ae4cb4658cd3964a44",
+    "bytes": 97571
+  },
+  "kit/studio/app/previews/effect-code-scan.mp4": {
+    "sha256": "b733679d23b93cca692265fe0865d56ed5e4ec160f7c0a5d0bfcb4446d3e564d",
+    "bytes": 1053863
+  },
+  "kit/studio/app/previews/effect-freeze-and-label.jpg": {
+    "sha256": "2d0d0a4163402cffaa77a695d0022511676fc14417a3f474af557206ee7e9b54",
+    "bytes": 71307
+  },
+  "kit/studio/app/previews/caption-outline.mp4": {
+    "sha256": "7cb927842bb9142c87b212a3346b7906647578adc1bcde1f34504c97ff39c112",
+    "bytes": 1024769
+  },
+  "kit/studio/app/previews/caption-bubblegum.jpg": {
+    "sha256": "fa29ad174a09c942554d4213f07b3207ec43989617c554ba98215b85efeac503",
+    "bytes": 102789
+  },
+  "kit/studio/app/previews/effect-prompt-box.jpg": {
+    "sha256": "0687f09f5853627657a5aa172e190904dead754befaff85e4ea737f28c460b3a",
+    "bytes": 94106
+  },
+  "kit/studio/app/previews/effect-sticky-text.mp4": {
+    "sha256": "b2e486e2ecea0720cf677537d3ff00d5a2bf586bbcaf7a74036fba81ef95d2eb",
+    "bytes": 1023187
+  },
+  "kit/studio/app/previews/colour-bw.mp4": {
+    "sha256": "806d070f9a7ea1c3149ea725929774405f4520f21c1f1881b6e682f77c03b24c",
+    "bytes": 621254
+  },
+  "kit/studio/app/previews/look-show-and-tell.mp4": {
+    "sha256": "b08ba2a9ba8201268bf6caee31a44fed8cd0b3446256f630a0eec4d054346af1",
+    "bytes": 300785
+  },
+  "kit/studio/app/previews/effect-knockout-tiles.jpg": {
+    "sha256": "c54d28bce48907c4dd8372747c97813187339054b16d32649798b7950a8e78e3",
+    "bytes": 72048
+  },
+  "kit/studio/app/previews/caption-spec-sheet.mp4": {
+    "sha256": "0cc04debbb938f608c488e35fcf5b2b29d8e10124d2b3a41e9af3413c60a8247",
+    "bytes": 1017260
+  },
+  "kit/studio/app/previews/effect-ui-world.mp4": {
+    "sha256": "5dcef0a3fd1dd6504e8bdefb02c7950e8e95d115ea63f476856159c3b91227a0",
+    "bytes": 183919
+  },
+  "kit/studio/app/previews/effect-clone.jpg": {
+    "sha256": "ea26a90836e507e4e017477398a8c6112930f49b5554644f50782dcf245470b2",
+    "bytes": 76387
+  },
+  "kit/studio/app/previews/effect-pull-back-reveal.mp4": {
+    "sha256": "d5958ea1f4005c3ad96f7335871cb8c0a7f4c4c50d6a6bfb3172fb4b6ce55110",
+    "bytes": 627038
+  },
+  "kit/studio/app/previews/colour-cinematic.jpg": {
+    "sha256": "4f1276d7cbb0fa9a15331c241927292b72f2f3e78df1ca11a982150d0988fd73",
+    "bytes": 27866
+  },
+  "kit/studio/app/previews/caption-moodboard.mp4": {
+    "sha256": "bf2f830106886551d7117db94c899b33175bb93c7cd48d05cd4a0591285c89ea",
+    "bytes": 1023816
+  },
+  "kit/studio/app/previews/caption-karaoke.mp4": {
+    "sha256": "987578e77ca8d7ec3fc3ad401887489034393c0bab3cbb25b91781a41cf41c69",
+    "bytes": 1001525
+  },
+  "kit/studio/app/previews/look-camera-shy.jpg": {
+    "sha256": "5c82039234b561a33fbd4b5b44a9ae72ccb758b5ac5160f94b28e39b4efdd5aa",
+    "bytes": 79297
+  },
+  "kit/studio/app/previews/colour-warm.mp4": {
+    "sha256": "e8b66fafbec5a25b36aea3c2d9848728eb33f98bcb07134d9f039ae7cce0c547",
+    "bytes": 717713
+  },
+  "kit/studio/app/previews/effect-serif-flow.jpg": {
+    "sha256": "198466661b327ebfebb715b07266b274e25142c80096dea37a728faa13b0a4c4",
+    "bytes": 19494
+  },
+  "kit/studio/app/previews/look-fireside.jpg": {
+    "sha256": "df1265024709fac6ab037e4ccd2547bce9f0f74ea2c008ce89c0fc2f84e773d8",
+    "bytes": 79941
+  },
+  "kit/studio/app/previews/effect-depth-scatter.mp4": {
+    "sha256": "0fcf49c7c5af960df3cfda8c0a6184ff52c855df4f7ea461fa3f8f6752ae07a2",
+    "bytes": 1019138
+  },
+  "kit/studio/app/previews/caption-viral-guy.mp4": {
+    "sha256": "90143a2a19383b37093d4d66c2100d965a2aac31a001edb740c4cbe93e24fe55",
+    "bytes": 1009743
+  },
+  "kit/studio/app/previews/effect-shatter-3d.mp4": {
+    "sha256": "5683b1253701d9c77ab2615868dc62b60154df0dc2e312351c88a4ec1a60e197",
+    "bytes": 1009104
+  },
+  "kit/studio/app/previews/caption-signature.jpg": {
+    "sha256": "dc6a667ff2890a4efd5269de6ca1469f69d59ab2253af8fb5a7792b8ed12745f",
+    "bytes": 96873
+  },
+  "kit/studio/app/previews/effect-inside-out.mp4": {
+    "sha256": "f0a20ee34aa802c10c2875c5217f85c8ff7a2429df19c46ff61c16d870b6c900",
+    "bytes": 241755
+  },
+  "kit/studio/app/previews/effect-dot-counter.mp4": {
+    "sha256": "8eb5bf99a0b5f5ca60f4f5b01bfd08aabd05dee947ddca15c280faf9248505d5",
+    "bytes": 984320
+  },
+  "kit/studio/app/previews/effect-paper-cut.jpg": {
+    "sha256": "c70caee8d5029ff6928e3836559e11d20ccbd100d3f31ecea9ce48ddcaa7ca9b",
+    "bytes": 157491
+  },
+  "kit/studio/app/previews/colour-natural.jpg": {
+    "sha256": "9ed0f593eeb12612671e9c4bd9ae688ba216a7600457cc7b43734b81dce057bd",
+    "bytes": 30052
+  },
+  "kit/studio/app/previews/effect-scene-text.jpg": {
+    "sha256": "789268202f8d84461180dcc964825181fa7278b2c531582a2000b47a3cb5c53b",
+    "bytes": 100511
+  },
+  "kit/studio/app/previews/colour-moody.mp4": {
+    "sha256": "267ae7b36928b7779b96011b6f0a0531c33a42d21ffc195eaf596de181f6753e",
+    "bytes": 649862
+  },
+  "kit/studio/app/previews/effect-neon-sign.mp4": {
+    "sha256": "84d7f27364df186f1c65f71d489ae92b3be3a3b49a6e1e57c261d96980484959",
+    "bytes": 183943
+  },
+  "kit/studio/app/previews/effect-odometer.mp4": {
+    "sha256": "c0de08de8cf37476b01bef3896b6e09b26101ddeebded6981d6fec3b7bff27cd",
+    "bytes": 1007858
+  },
+  "kit/studio/app/previews/effect-doodle-boil.mp4": {
+    "sha256": "10a164a247c23390d8ec3348aec0eb751a24f02390c9c80fd2463586a495c7ce",
+    "bytes": 995249
+  },
+  "kit/studio/app/previews/caption-anchor.mp4": {
+    "sha256": "2034709da699433927067e944e050cedd6b1f928db2dc937cfb079d631820219",
+    "bytes": 1014379
+  },
+  "kit/studio/app/previews/caption-cool-girl.mp4": {
+    "sha256": "145dce2b48245b21c85284c06d9aa66f009f7e9c9e3e6404669b51c789bf10ea",
+    "bytes": 1032651
+  },
+  "kit/studio/app/previews/look-raw-tape.mp4": {
+    "sha256": "a67e1b3ef20b4d8124ef8140dce0aa54f7cb29f827a4e21e51d90025868f4a19",
+    "bytes": 416532
+  },
+  "kit/studio/app/previews/effect-type-wall.jpg": {
+    "sha256": "c7d46600c0b365d401fa4aa7375c89c6b76e44fa3fa843dbb38799719f485fa0",
+    "bytes": 129974
+  },
+  "kit/studio/app/previews/effect-chip-row.jpg": {
+    "sha256": "154989a01e397acecc88df4c89820f5d5095e984f18d7e244e213bc7e10d1f38",
+    "bytes": 96756
+  },
+  "kit/studio/app/previews/effect-couch-wall.jpg": {
+    "sha256": "7a5e9d4951068a6bc4ee419d49f455d9d7c8092c01dcecdaaad11d0860885ed3",
+    "bytes": 139893
+  },
+  "kit/studio/app/previews/caption-terminal.jpg": {
+    "sha256": "3c8f5a4de658217f113ce2714cbc7f49050651bb0368a71faefe219f6f213f7d",
+    "bytes": 105262
+  },
+  "kit/studio/app/previews/effect-god-rays.mp4": {
+    "sha256": "e822cd79eda47a22bb5d5bf85594efb7ec18075993b3d52fa1074cc992a81a6c",
+    "bytes": 1064637
+  },
+  "kit/studio/app/previews/look-chalk-talk.mp4": {
+    "sha256": "6c384780ccbc06960436810198750da7eb94ea9a16a7dddb1fa430c0ff4cdb19",
+    "bytes": 418418
+  },
+  "kit/studio/app/previews/caption-golden-hour.mp4": {
+    "sha256": "1e6c2349d35d5a25b4511b8539e7b208b761b69382f6f36f25838f27f95e22b6",
+    "bytes": 1019563
+  },
+  "kit/studio/app/previews/look-soft-hours.jpg": {
+    "sha256": "b44921cf764fd61cf6d71bb20a7f39f652be81e3bd5aa9f066b1720d61183b4f",
+    "bytes": 82852
+  },
+  "kit/studio/app/previews/effect-checklist.jpg": {
+    "sha256": "0b16366d9723dbbe15d3afe34d23208a37612462a9326d423e6f05a65ad8d223",
+    "bytes": 87625
+  },
+  "kit/studio/app/previews/look-viral-guy.jpg": {
+    "sha256": "606ee6435a87f124e2bdee66d4d172f08e3fada5a83aa6c91731d725ff59797a",
+    "bytes": 77760
+  },
+  "kit/studio/app/previews/effect-freeze-sticker.jpg": {
+    "sha256": "e185a1720422427f02482cfca06c550c78eeae85ee6f5712d063ef0b65af3502",
+    "bytes": 73785
+  },
+  "kit/studio/app/previews/effect-zoom-through-cut.jpg": {
+    "sha256": "e2fa03552e38efcc6c076ae8c2e3f3e3e9592b7fd4dd45eaac963a78e20142bc",
+    "bytes": 30524
+  },
+  "kit/studio/app/previews/effect-phone-mockup.mp4": {
+    "sha256": "b1b83d7d99f2339f165951878e4ff1cf6c08f9910701bbf4b35b085574d90174",
+    "bytes": 230921
+  },
+  "kit/studio/app/previews/effect-blackout.mp4": {
+    "sha256": "cf7f9f7ab3b5f50ff73601b17fce52d21e63e645e16470d3090ff68904dc7235",
+    "bytes": 1124876
+  },
+  "kit/studio/app/previews/effect-chart-grow.jpg": {
+    "sha256": "fd3fb5c2712300312563838be05bc0d92cd4b684d7d59764c2de0ea63a483f82",
+    "bytes": 92169
+  },
+  "kit/studio/app/previews/caption-weight-shift.mp4": {
+    "sha256": "85c9201270db16f2b5c6bb84a0b890792018d7b10d6e3b0871c14a85d6f9e61f",
+    "bytes": 1035618
+  },
+  "kit/studio/app/previews/effect-vertigo.mp4": {
+    "sha256": "9d38b790343db2ebe8cb0440e1734e61c35d5783070036cb5a4b681af5f2ebd2",
+    "bytes": 337694
+  },
+  "kit/studio/app/previews/effect-word-pile.jpg": {
+    "sha256": "c1d9596739fbc94d55f8ffd6ac3846904e48df0694611bf83494e3adbde2c066",
+    "bytes": 103362
+  },
+  "kit/studio/app/previews/effect-cover-story.mp4": {
+    "sha256": "9a9c81ee2bb0ab05e7703bff46cb8086ba6bd431daa97397007e9a0148c3ded8",
+    "bytes": 918725
+  },
+  "kit/studio/app/previews/effect-digital-zoom.jpg": {
+    "sha256": "05e6ab29cdb891d81160d9abd9585142d9815c462c043b9b8116c99d7d4b5c2b",
+    "bytes": 70670
+  },
+  "kit/studio/app/previews/effect-headline-wall.jpg": {
+    "sha256": "8e6c847735a974c0b9158d3a2bd0f5bc1f7412a562eef979f025d938a20a61b0",
+    "bytes": 112794
+  },
+  "kit/studio/app/previews/effect-timeline-burn.mp4": {
+    "sha256": "cf2fa08655b0e23ffe8f3638c4de52bda3e6e412580377b25cfdc84561199bde",
+    "bytes": 1071804
+  },
+  "kit/studio/app/previews/effect-comment-bubble.mp4": {
+    "sha256": "e6e91d389990069c0d699db5cd058d74ee1f3bdfe7b8a4d3d04cca953129cda2",
+    "bytes": 1031053
+  },
+  "kit/studio/app/previews/effect-green-screen.jpg": {
+    "sha256": "a6c27c7e1b29403f4f09263f4e011ff684f8c15fb1f9845e47a5d1c6a415f9b5",
+    "bytes": 77316
+  },
+  "kit/studio/app/previews/look-glam-cam.mp4": {
+    "sha256": "69184e00f307f8c1fa845558771d201f617c5d61ce8b8e7bc84d8a440bc4161b",
+    "bytes": 1073145
+  },
+  "kit/studio/app/previews/caption-arcade.jpg": {
+    "sha256": "6bedbf6919024b2982f80d40cdf121fbc8e79555238e2b6fd8517230e761f46d",
+    "bytes": 95849
+  },
+  "kit/studio/app/previews/effect-rack-focus.jpg": {
+    "sha256": "51247e585755b48ccc0f1f06662ef4e05985c457a2536e291ac2c7465f3a7e6d",
+    "bytes": 61835
+  },
+  "kit/studio/app/previews/effect-stat-stack.mp4": {
+    "sha256": "893f9ea6f6b58c3836fc972a163d7662e936d46add350585649483a64f941c9a",
+    "bytes": 999089
+  },
+  "kit/studio/app/previews/effect-frame-break.mp4": {
+    "sha256": "3561d64fa46e441dba0fa9d5a76c557d48e21b8a604063b49d97ab1dcd1a4764",
+    "bytes": 841555
+  },
+  "kit/studio/app/previews/caption-cool-dude.jpg": {
+    "sha256": "05e39e9d59c2587c14c7fe25d2c17d96405d2922aae3eb8432f084b198137e53",
+    "bytes": 104421
+  },
+  "kit/studio/app/previews/caption-keyword.jpg": {
+    "sha256": "251bcc2e0633eb0c88bd193c4f6b033ed698bfe170f4bf578eb772e00f1ef4b3",
+    "bytes": 98356
+  },
+  "kit/studio/app/previews/caption-vanity.jpg": {
+    "sha256": "511beee2190c30131b801b9231741fd12cb6bdb841083f03edbf8d4d6cfa3fea",
+    "bytes": 96720
+  },
+  "kit/studio/app/previews/effect-spotlight.jpg": {
+    "sha256": "8e41c7e01fa22474a30ea9bb5d0ef0c22915f983d144c8fefe216058f6f04750",
+    "bytes": 93607
+  },
+  "kit/studio/app/previews/effect-the-stack.jpg": {
+    "sha256": "f76b3619530f57c1858c5e00d8f19969e7af4d9d7494c2ecfc29784c86946bf5",
+    "bytes": 76649
+  },
+  "kit/studio/app/previews/effect-orbit.jpg": {
+    "sha256": "9ada275e00ab8786782c230333bdb9fba301470bddbe3f3341498e7a3654bd43",
+    "bytes": 81219
+  },
+  "kit/studio/app/previews/caption-field-notes.jpg": {
+    "sha256": "449db82c05b8d2d0e0269cb029d9a74c0d9e31840c0d82913f01a9e0f3f16dd8",
+    "bytes": 95100
+  },
+  "kit/studio/app/previews/effect-blackout.jpg": {
+    "sha256": "66c1f734d16f947863410237f679529a0d54b329ec2853a5c794a450c86a2e03",
+    "bytes": 79988
+  },
+  "kit/studio/app/previews/caption-weight-shift.jpg": {
+    "sha256": "9ca8f75cebf7481ed7956790108a4da89a72b75232e46bea6eec8be3cd8520e9",
+    "bytes": 107429
+  },
+  "kit/studio/app/previews/effect-chart-grow.mp4": {
+    "sha256": "ac71e64cc3a2436f09410057945c3927dfb02aad30392fe1b95a119067aff000",
+    "bytes": 1120856
+  },
+  "kit/studio/app/previews/effect-digital-zoom.mp4": {
+    "sha256": "67fc4e0f309d2dcda57c5cbd806ccec73b76b8605944546ef84cdb2262be29cc",
+    "bytes": 1098826
+  },
+  "kit/studio/app/previews/effect-vertigo.jpg": {
+    "sha256": "ea4dc2f26b6614093fe688966076ec7ceb24a8c8ab3bb0f84f8a977d01ac6f4d",
+    "bytes": 82865
+  },
+  "kit/studio/app/previews/effect-cover-story.jpg": {
+    "sha256": "61ee0b5c221290451e9718a618e38b2feb3401fc7db2990acdf8934f1bb23e7e",
+    "bytes": 96640
+  },
+  "kit/studio/app/previews/effect-word-pile.mp4": {
+    "sha256": "ddb27848c4e0032007ca80abecb161eea540c0e7cc3e4fb6012d2790e8bd402a",
+    "bytes": 933757
+  },
+  "kit/studio/app/previews/caption-cool-girl.jpg": {
+    "sha256": "0582126d981ee2c323a8c9db0eef2244d89b0e10ea4a2ac7b8f411dec2247380",
+    "bytes": 105779
+  },
+  "kit/studio/app/previews/effect-couch-wall.mp4": {
+    "sha256": "fdaf8a0bae1f796b519a26f11ba08bcca458491d6b4e19529faddd8e59e81dc8",
+    "bytes": 506594
+  },
+  "kit/studio/app/previews/caption-terminal.mp4": {
+    "sha256": "c03d025039d3ff59a6f196a59f297df40867d8cb025f9de7efbb288e2baaee8c",
+    "bytes": 1028163
+  },
+  "kit/studio/app/previews/look-raw-tape.jpg": {
+    "sha256": "7e5113b16513ad28f1fd0c62c94e53899e052909074e560f487b67af1d0ad1a9",
+    "bytes": 39240
+  },
+  "kit/studio/app/previews/effect-chip-row.mp4": {
+    "sha256": "3f108eb84b03657f9d990d8a69b8a47627b46e12466e51da363c1aabdac00158",
+    "bytes": 1024358
+  },
+  "kit/studio/app/previews/effect-type-wall.mp4": {
+    "sha256": "ecff1e36559a6fae1e12137bb90bbcb281d852ea621004f86c9a5e69d4bd677e",
+    "bytes": 849157
+  },
+  "kit/studio/app/previews/effect-neon-sign.jpg": {
+    "sha256": "4af39e482775f83c03614d1b5fb346210ed4ece86b0eba1a20aa27538135d6e9",
+    "bytes": 63084
+  },
+  "kit/studio/app/previews/caption-anchor.jpg": {
+    "sha256": "6ff66d084c10f14d0513c9724fa386865ba739a302f2ef694f02e2c2cad1f73f",
+    "bytes": 94479
+  },
+  "kit/studio/app/previews/effect-doodle-boil.jpg": {
+    "sha256": "31c70b74dad933c2182a2fb4ab88b27482abbcc737722fab34fe40575fd269c5",
+    "bytes": 91445
+  },
+  "kit/studio/app/previews/effect-odometer.jpg": {
+    "sha256": "0e3f00866caf19c7934841be3070d5288e20b1dbbaa5d660ffd2e727749fb169",
+    "bytes": 97245
+  },
+  "kit/studio/app/previews/look-viral-guy.mp4": {
+    "sha256": "540dfe0f1c1bfc105766529e89246242a9cadde8c386964ee794f771ea19b67d",
+    "bytes": 877349
+  },
+  "kit/studio/app/previews/effect-phone-mockup.jpg": {
+    "sha256": "c3eaab1bc98e91a42ca6c44039a530f169d0374904e6de172aff330ed8818ddd",
+    "bytes": 79189
+  },
+  "kit/studio/app/previews/effect-zoom-through-cut.mp4": {
+    "sha256": "ee6307d596e342a4524d24db1f74768fc229741bdacb1c05cf55d4b4f7538268",
+    "bytes": 586895
+  },
+  "kit/studio/app/previews/effect-freeze-sticker.mp4": {
+    "sha256": "d650600bcfaf1401481dadc5bf7fe341fbba4053ab4bffa2a4c08e3d7e03d817",
+    "bytes": 570714
+  },
+  "kit/studio/app/previews/effect-god-rays.jpg": {
+    "sha256": "3939d00c227230fc43d7b0e06fa75f5a76a6378208bc4966d82b3b51b6acc8a1",
+    "bytes": 86091
+  },
+  "kit/studio/app/previews/look-chalk-talk.jpg": {
+    "sha256": "e1e6ea0fd6b16030db8f04992c0ffdc8e2f00d90e52f70c66c4974f5f1203aff",
+    "bytes": 43297
+  },
+  "kit/studio/app/previews/effect-checklist.mp4": {
+    "sha256": "377379d808dfab114582fe924f10a87ac28b3c55b7dfff90e1b839a991d541b2",
+    "bytes": 867979
+  },
+  "kit/studio/app/previews/caption-golden-hour.jpg": {
+    "sha256": "d29d5628a45d0521331888073f33a679e0752408ea0e8613348324b136e7eaf5",
+    "bytes": 97003
+  },
+  "kit/studio/app/previews/look-soft-hours.mp4": {
+    "sha256": "60ea3187973adde9324de6a885b59d9ef2b208b9683a9f7952308470c056caa0",
+    "bytes": 916190
+  },
+  "kit/studio/app/previews/caption-vanity.mp4": {
+    "sha256": "540b1a95c0de0ee267ba05a3e5d7fc1bdeda703387437160c4aea02ace9a45a7",
+    "bytes": 1015400
+  },
+  "kit/studio/app/previews/effect-spotlight.mp4": {
+    "sha256": "3caf23abcd6c893b7189887de4b50d05427ad60b816e747ced0d6bdf6f7b641a",
+    "bytes": 1120025
+  },
+  "kit/studio/app/previews/caption-keyword.mp4": {
+    "sha256": "7cba841a44c623662eed6a27738aeeaca9c82f353faf51d776c1a42e21b026a5",
+    "bytes": 1012569
+  },
+  "kit/studio/app/previews/caption-cool-dude.mp4": {
+    "sha256": "d05946e893c0d7b23da4b615ff509c802f45079dfb3e6d0072ee5c1516040541",
+    "bytes": 1042954
+  },
+  "kit/studio/app/previews/effect-orbit.mp4": {
+    "sha256": "d37005b10bc6bb0471aa9b9a0f2f3e957c8123dc5049c707389daa5f52360672",
+    "bytes": 251676
+  },
+  "kit/studio/app/previews/caption-field-notes.mp4": {
+    "sha256": "7d260aba1baad2dcfb100799c7bf8e7bdff042cf324f49dc712d27caa7db38d7",
+    "bytes": 1010269
+  },
+  "kit/studio/app/previews/effect-the-stack.mp4": {
+    "sha256": "56df5636019aa93566216f18863ff295fd5bb1a7ab78f1662c031ac202a0b570",
+    "bytes": 143881
+  },
+  "kit/studio/app/previews/effect-green-screen.mp4": {
+    "sha256": "1a38f0f6d6d28d5750ef0604fd99c330a53d44fbfb3e73370a42ed3432d716fb",
+    "bytes": 299886
+  },
+  "kit/studio/app/previews/look-glam-cam.jpg": {
+    "sha256": "3beaa70eac08a4fa8513596cdd855a950715709135749c49789e751ef49936fe",
+    "bytes": 99418
+  },
+  "kit/studio/app/previews/effect-timeline-burn.jpg": {
+    "sha256": "d36e4890333018023883260fd3ad83ffa0c3127bfcf34d941236a6e7074d423e",
+    "bytes": 90650
+  },
+  "kit/studio/app/previews/effect-comment-bubble.jpg": {
+    "sha256": "2d028490433768294706dfa8c44f834fa067e0d6f794b562bc9f300153daf5f9",
+    "bytes": 91091
+  },
+  "kit/studio/app/previews/effect-headline-wall.mp4": {
+    "sha256": "7edb55c430b5dbf0c75f142908c1e914164a5804ca08217a1e6f58d84943dc15",
+    "bytes": 336244
+  },
+  "kit/studio/app/previews/effect-frame-break.jpg": {
+    "sha256": "a22858718c16704b7366da76bc11f6b682a1338a3c6c12e5b534bf69184ab84c",
+    "bytes": 58359
+  },
+  "kit/studio/app/previews/caption-arcade.mp4": {
+    "sha256": "217aea324dee8c170281e0690ef6ea9289630399f1d2e9806ec45b2632b02a4c",
+    "bytes": 1016776
+  },
+  "kit/studio/app/previews/effect-stat-stack.jpg": {
+    "sha256": "5cba2a53cfc2dba4b9a5b889edd6b9c9809cdbd71b35268b111a6f7a067adde4",
+    "bytes": 94079
+  },
+  "kit/studio/app/previews/effect-rack-focus.mp4": {
+    "sha256": "b6008c787041eab82f0be382220dbc1cea0fdc8a6fe3ce1a061c418ee572c276",
+    "bytes": 919150
+  },
+  "kit/studio/app/previews/caption-bubblegum.mp4": {
+    "sha256": "de74942c2969e19fd8661090b9a1d9847f3b829f9b4e10bce2d4693f4c930dbc",
+    "bytes": 1033884
+  },
+  "kit/studio/app/previews/effect-prompt-box.mp4": {
+    "sha256": "31ded8ee323a670bb79099dd1f9cc14cde9a85097e0c2fd7585388f730e0b5e2",
+    "bytes": 1006858
+  },
+  "kit/studio/app/previews/caption-loud-lowercase.mp4": {
+    "sha256": "c538ae7aa751445bfdbf735edf17a0685476d6897ee105f9ada0681efc44ea98",
+    "bytes": 1010025
+  },
+  "kit/studio/app/previews/effect-pointer-callout.jpg": {
+    "sha256": "6781623933c97a4153d470ac13b03ea9355baa7a44e135d66e519f6a0018935f",
+    "bytes": 98971
+  },
+  "kit/studio/app/previews/caption-outline.jpg": {
+    "sha256": "5a1fd6468768b80d0e1e319e8b01aa4f4462714e9b8c1dbb2f4351b4b8110281",
+    "bytes": 109102
+  },
+  "kit/studio/app/previews/effect-code-scan.jpg": {
+    "sha256": "932471d0f4af254c61aa06ab4bf63bfd156f9207f887e1b040091e444a3a11c0",
+    "bytes": 388097
+  },
+  "kit/studio/app/previews/effect-freeze-and-label.mp4": {
+    "sha256": "0eddbea8455e960fa97ec720292c9ca2854273de75c1979860a22080448434ac",
+    "bytes": 304479
+  },
+  "kit/studio/app/previews/caption-spec-sheet.jpg": {
+    "sha256": "864b06e56b6bd6933ef638d670304f3e01f1b89b11f03c141ba1e356b28748db",
+    "bytes": 96834
+  },
+  "kit/studio/app/previews/effect-knockout-tiles.mp4": {
+    "sha256": "ea1e3160991285663acfc886a11c3fc138ee5ae84a3ef8c8fff3dc82b1ef9eef",
+    "bytes": 127613
+  },
+  "kit/studio/app/previews/look-show-and-tell.jpg": {
+    "sha256": "5cbdb18b3bacb40f8443e28cff2306f8907426a3aedbee07e4a403cdf448af74",
+    "bytes": 45722
+  },
+  "kit/studio/app/previews/effect-sticky-text.jpg": {
+    "sha256": "4ec2ef88fd6ab71a106cb12f22ade02c6eb3ed756b3572425a1eb1ba15d0439a",
+    "bytes": 98067
+  },
+  "kit/studio/app/previews/colour-bw.jpg": {
+    "sha256": "d5730b2b24a9902fc2c7b9fa2f30ecf288ae64bd7626bae14136e8915724d47a",
+    "bytes": 28266
+  },
+  "kit/studio/app/previews/look-color-block.mp4": {
+    "sha256": "b820025fb379d13bd824f6046fee713818fe33b37da89838929e347d5636b58f",
+    "bytes": 776217
+  },
+  "kit/studio/app/previews/effect-glass-type.mp4": {
+    "sha256": "144dc32669efb6b271e30a4a73dce11bc37f09930223080370c351aa04913dc7",
+    "bytes": 216503
+  },
+  "kit/studio/app/previews/caption-bold.jpg": {
+    "sha256": "e227a29c2c078f1d448c15050d2c27fa0e088f7b1d9ac432526496db95fb8030",
+    "bytes": 87283
+  },
+  "kit/studio/app/previews/colour-bright.jpg": {
+    "sha256": "3060cb3df66e4a5071b78f009cd8a021c4460ae9d332fcc744fb3178b2bfdc68",
+    "bytes": 29606
+  },
+  "kit/studio/app/previews/caption-low-key.jpg": {
+    "sha256": "bece7609d1474007d301182ec49830412efe11a42fb0964ea521a8aedce1ca74",
+    "bytes": 98615
+  },
+  "kit/studio/app/previews/effect-spatial-glass.jpg": {
+    "sha256": "535885c79b011c54898e3096e2a20344694ed48a2e14ba29ebe9b0d13696e0bf",
+    "bytes": 85231
+  },
+  "kit/studio/app/previews/effect-before-and-after.mp4": {
+    "sha256": "f5633f3bbb0dea0e39d1624ced16f477fc582500c506ea6a7e0118fd0b0e77c7",
+    "bytes": 1111119
+  },
+  "kit/studio/app/previews/caption-viral-guy.jpg": {
+    "sha256": "af8e205711638b5e6f273d527debf7a3e6d392bc3970ac959fffe67b2cea6c00",
+    "bytes": 96049
+  },
+  "kit/studio/app/previews/effect-shatter-3d.jpg": {
+    "sha256": "3f94bf4815ddd72cd40d6d652ac73c8609dc4199f495358d68fbedc8fbd54c7b",
+    "bytes": 131979
+  },
+  "kit/studio/app/previews/look-fireside.mp4": {
+    "sha256": "0d4d597b91adecf4315ed2cfea8983274cec7cbf2ff89aea3f5187f990f27fee",
+    "bytes": 954994
+  },
+  "kit/studio/app/previews/effect-serif-flow.mp4": {
+    "sha256": "b5cbdc4906049e1b38ca8c40f319676523f4e6000c6968bf0cca0cdc9001ec69",
+    "bytes": 75893
+  },
+  "kit/studio/app/previews/effect-depth-scatter.jpg": {
+    "sha256": "724fd799753bee9b998e05ef306756c31a384a11098deb56d77d2a9db49a0b9a",
+    "bytes": 92338
+  },
+  "kit/studio/app/previews/colour-moody.jpg": {
+    "sha256": "a697f00b9f080410f0e01b1c10c79aa49c34c4300081eec27dfe87281be6e4f3",
+    "bytes": 26260
+  },
+  "kit/studio/app/previews/effect-scene-text.mp4": {
+    "sha256": "8cd16110e7b389a105bb8d743f2ef346f07a89de575e3bc67c2f585a3c95ad00",
+    "bytes": 956987
+  },
+  "kit/studio/app/previews/colour-natural.mp4": {
+    "sha256": "514b7a09870168ff3453e7bebc23c9b3eb3e6168a310cc0cd31e506a3e734a87",
+    "bytes": 674048
+  },
+  "kit/studio/app/previews/caption-signature.mp4": {
+    "sha256": "198f377d307dd35d59f902a0fc6423e2c1d78106709786c6bebc1f3f7ab14e16",
+    "bytes": 1013925
+  },
+  "kit/studio/app/previews/effect-inside-out.jpg": {
+    "sha256": "d32f71688ab5860229ab1905c614aac1cacf3b4d46c214667ab4dc6049bf4bc1",
+    "bytes": 55531
+  },
+  "kit/studio/app/previews/effect-paper-cut.mp4": {
+    "sha256": "e01ac43ca2f35fc3d5a26cca1c0393d0eec6df9988057a0b68f92988a66ea5e0",
+    "bytes": 1147762
+  },
+  "kit/studio/app/previews/effect-dot-counter.jpg": {
+    "sha256": "3ce296a41546076e3e918903994d0f188c383c8789bcf1ca7a63c1df1f06261f",
+    "bytes": 92193
+  },
+  "kit/studio/app/previews/effect-ui-world.jpg": {
+    "sha256": "3732cb49e644b5089a49a560a5a7769dd87996dd937a5fd1cbc6066ea44e54b2",
+    "bytes": 60813
+  },
+  "kit/studio/app/previews/effect-clone.mp4": {
+    "sha256": "cac079d3127f87e49a7a7cdf10689a86e47f54fe3bdddb81441835d2e8f72f9b",
+    "bytes": 200969
+  },
+  "kit/studio/app/previews/effect-pull-back-reveal.jpg": {
+    "sha256": "4950329acf64cf2ae4b9f54f89d6733272c052075c3c0ac62e2054e6ff8fff0b",
+    "bytes": 74514
+  },
+  "kit/studio/app/previews/look-camera-shy.mp4": {
+    "sha256": "547e196e7c1835b05881e16e5a3cacc70fb0a1ff0be14b601b2be2fdceed4e47",
+    "bytes": 981373
+  },
+  "kit/studio/app/previews/caption-karaoke.jpg": {
+    "sha256": "bfe38bb4b8813d1e08fb7ab6d942ce5cf7ff337680704b89228fb8335beb8ec1",
+    "bytes": 97178
+  },
+  "kit/studio/app/previews/colour-warm.jpg": {
+    "sha256": "2000eda1b095e810341613c6a3f3577b3d86bcb56b3ca5aa7ef5695451893b43",
+    "bytes": 31724
+  },
+  "kit/studio/app/previews/caption-moodboard.jpg": {
+    "sha256": "4d14d1aaae54c880190d01a751107cf47c6aba7997b8accdb74a6ad062858cc2",
+    "bytes": 98738
+  },
+  "kit/studio/app/previews/colour-cinematic.mp4": {
+    "sha256": "09ae2fd0758d41956d00d4e0a9f733b9f6003bfdaa4ce09db487e865046185aa",
+    "bytes": 728312
+  },
+  "kit/studio/app/previews/thumbs/look-color-block.jpg": {
+    "sha256": "1545bea41abba450d4a9975c09549c824966422313c9ef9b6e14d9de8fae0cfd",
+    "bytes": 1265
+  },
+  "kit/studio/app/previews/thumbs/effect-spatial-glass.mp4": {
+    "sha256": "5323dbaf971588eeb3556b79ec28955ae38f25c308d8d558eb51a93bd9d0cbdd",
+    "bytes": 331174
+  },
+  "kit/studio/app/previews/thumbs/effect-before-and-after.jpg": {
+    "sha256": "07b322b27cdee19ae6a16a0d6764f3075e9b524124e616333b44dc61a003d98e",
+    "bytes": 12113
+  },
+  "kit/studio/app/previews/thumbs/effect-glass-type.jpg": {
+    "sha256": "cd5b2f632bcf31122fb8199311085e5e6e297e1b0efb1fe3df28f75b1c9e5b62",
+    "bytes": 9302
+  },
+  "kit/studio/app/previews/thumbs/caption-bold.mp4": {
+    "sha256": "cfcdc43e7ad47197acfc916133d63a38fcdf8d904ad7c613eabb0220ea93eb9b",
+    "bytes": 335152
+  },
+  "kit/studio/app/previews/thumbs/colour-bright.mp4": {
+    "sha256": "26e6a0933648496a38a9a3fe0562badd600ccc28541d5e5ffec42f73096169fa",
+    "bytes": 292466
+  },
+  "kit/studio/app/previews/thumbs/caption-low-key.mp4": {
+    "sha256": "6306df39ac3f65139fbba5b779aa38918cd950165bc4470b9db251d53eeed50e",
+    "bytes": 324187
+  },
+  "kit/studio/app/previews/thumbs/effect-pointer-callout.mp4": {
+    "sha256": "ecd09d4553aee4e1bdf2f61742971a83aca73bc3b475b8d5f6ce72b96917da86",
+    "bytes": 325445
+  },
+  "kit/studio/app/previews/thumbs/caption-loud-lowercase.jpg": {
+    "sha256": "0c84f9ebbbf7a0189ae24714b8160e8c86e2c38b262556f2e4af338691ed0d09",
+    "bytes": 12187
+  },
+  "kit/studio/app/previews/thumbs/effect-code-scan.mp4": {
+    "sha256": "ec6e8991c3e885da9c055b87191fc1fc71f3a77a413e06609093dae6086350cd",
+    "bytes": 508241
+  },
+  "kit/studio/app/previews/thumbs/effect-freeze-and-label.jpg": {
+    "sha256": "1428859241b52812c54f8f343786a674d767174e3fd263024526d17e50eeded7",
+    "bytes": 9232
+  },
+  "kit/studio/app/previews/thumbs/caption-outline.mp4": {
+    "sha256": "c020385a5071977985840bd6130123634e162477d24114c32d805353c78090ee",
+    "bytes": 332245
+  },
+  "kit/studio/app/previews/thumbs/caption-bubblegum.jpg": {
+    "sha256": "afe3f4d4199bf75c359cf6eba54c95ae9b6584b643a4fe600d941baee719f47f",
+    "bytes": 12678
+  },
+  "kit/studio/app/previews/thumbs/effect-prompt-box.jpg": {
+    "sha256": "01ae29655a233b9fe714c2372eba2010f5dc7837db6299637afa65e80de1fca6",
+    "bytes": 11912
+  },
+  "kit/studio/app/previews/thumbs/effect-sticky-text.mp4": {
+    "sha256": "4385b37c751d2ca70e29990610356bc8d0629949e86d4cd6ad15899b46929ab1",
+    "bytes": 324596
+  },
+  "kit/studio/app/previews/thumbs/colour-bw.mp4": {
+    "sha256": "77605fa89ba6e17c60ef6d52c2a9806001ea1310bdb4ad9d1a2e5b8cb4fe3b57",
+    "bytes": 286229
+  },
+  "kit/studio/app/previews/thumbs/look-show-and-tell.mp4": {
+    "sha256": "42af627c0619a371ab02ac0012835a2fb2ef40242288269a04472147ee8f954c",
+    "bytes": 109185
+  },
+  "kit/studio/app/previews/thumbs/effect-knockout-tiles.jpg": {
+    "sha256": "691abe2bb5c42a9b5652bf4f8860f97f91e42f6b95452fe5409ae25e7bef9aea",
+    "bytes": 9018
+  },
+  "kit/studio/app/previews/thumbs/caption-spec-sheet.mp4": {
+    "sha256": "cac03038eed0553807f81b63d68b905c2eb79bfedac4c9b9fd85a1bcd802b9e6",
+    "bytes": 328460
+  },
+  "kit/studio/app/previews/thumbs/effect-ui-world.mp4": {
+    "sha256": "ab1cbc8b38b40a44002c111c3804fa853284abe3fba0904478aae7861dcc91ae",
+    "bytes": 83010
+  },
+  "kit/studio/app/previews/thumbs/effect-clone.jpg": {
+    "sha256": "e2f3da1260074a2b10f67ca5d33d730bfd61196831786964a967a0e2a3bad5bb",
+    "bytes": 9484
+  },
+  "kit/studio/app/previews/thumbs/effect-pull-back-reveal.mp4": {
+    "sha256": "aad993ea7efcf8027379cdcb05ff682a441600101a40ef2eefbb35cce19eb24d",
+    "bytes": 233851
+  },
+  "kit/studio/app/previews/thumbs/colour-cinematic.jpg": {
+    "sha256": "de30a77973e4f134e615c25acecf567f455585286b4f255534d8f950a4003c6f",
+    "bytes": 10586
+  },
+  "kit/studio/app/previews/thumbs/caption-moodboard.mp4": {
+    "sha256": "670241da42a3181706e1d2f3e382110e7557cad1fb67054add8acc74523e3c37",
+    "bytes": 332252
+  },
+  "kit/studio/app/previews/thumbs/caption-karaoke.mp4": {
+    "sha256": "8bd70c5a7b92e08ad07c3d7e1c9246a97b5b6c0519045bfe35f752b2e3c46de8",
+    "bytes": 322293
+  },
+  "kit/studio/app/previews/thumbs/look-camera-shy.jpg": {
+    "sha256": "4e51f50bffa3cb77419f220460d69a22863736788c91e206c781b0eff9968d85",
+    "bytes": 10621
+  },
+  "kit/studio/app/previews/thumbs/colour-warm.mp4": {
+    "sha256": "80d0ac58b388119279801944065266386c018aa47e62ff3adb8e23fc5476fa87",
+    "bytes": 311063
+  },
+  "kit/studio/app/previews/thumbs/effect-serif-flow.jpg": {
+    "sha256": "a1c3a670df8f28d6516cd76fa459415cf5eb309c4b5272f3af32f146e5df8413",
+    "bytes": 2318
+  },
+  "kit/studio/app/previews/thumbs/look-fireside.jpg": {
+    "sha256": "95fba0d94e525e015c6b0c30772587833317d778d04f75778a9e07e615e4ca80",
+    "bytes": 10436
+  },
+  "kit/studio/app/previews/thumbs/effect-depth-scatter.mp4": {
+    "sha256": "584dc255b31729f5782f6d19f653f631b0e5aac05a0e279fb304aebb1b872570",
+    "bytes": 324591
+  },
+  "kit/studio/app/previews/thumbs/caption-viral-guy.mp4": {
+    "sha256": "7acaffc964de91045fc818ee63810d1bd26cb6f6d5848b46324dcac4839d1083",
+    "bytes": 324863
+  },
+  "kit/studio/app/previews/thumbs/effect-shatter-3d.mp4": {
+    "sha256": "16ff2698072069237b596a6068d616ba90f1ea2e6152cbbc20c664bd5e096073",
+    "bytes": 404669
+  },
+  "kit/studio/app/previews/thumbs/caption-signature.jpg": {
+    "sha256": "5f922b39373f0c1f2275b831514676fdd44fba4ba0afbded3717e34d81363193",
+    "bytes": 12056
+  },
+  "kit/studio/app/previews/thumbs/effect-inside-out.mp4": {
+    "sha256": "0fd3a1e1924d05921099b56b22bf8d5b05b144f5e94be324163169c632dac7d8",
+    "bytes": 93799
+  },
+  "kit/studio/app/previews/thumbs/effect-dot-counter.mp4": {
+    "sha256": "7c147751c6eb2dc2925363a16e8b56c4c71fd4086509c23acdc936bf62de20c6",
+    "bytes": 320425
+  },
+  "kit/studio/app/previews/thumbs/effect-paper-cut.jpg": {
+    "sha256": "d09019f8b890225ca93dd470b009d65b6dd323d7f589267c0dacca37aef31fa7",
+    "bytes": 16046
+  },
+  "kit/studio/app/previews/thumbs/colour-natural.jpg": {
+    "sha256": "4af1ab19cc184898642d9535e3584d4d1daf6f7da155ac6e4fbb0b1761872baf",
+    "bytes": 11168
+  },
+  "kit/studio/app/previews/thumbs/effect-scene-text.jpg": {
+    "sha256": "f808fb3b8b0e2a909b4f35bcc95fb157b2400ec6f0453f162e92d36ba6ae21c9",
+    "bytes": 13409
+  },
+  "kit/studio/app/previews/thumbs/colour-moody.mp4": {
+    "sha256": "5e2eb565340efdb339087c73534b05762ecfd74ef3a86fee49529d6e09b765f1",
+    "bytes": 255563
+  },
+  "kit/studio/app/previews/thumbs/effect-neon-sign.mp4": {
+    "sha256": "2f1bf8375bd56c0abe76a4d41c130822cec1fe1bb60a51f7c07cf04c367f88fe",
+    "bytes": 62764
+  },
+  "kit/studio/app/previews/thumbs/effect-odometer.mp4": {
+    "sha256": "e5c26c21c6991f0f09db4c261154a9f7b1dacf831c9d3aed946e08d8d3205787",
+    "bytes": 320981
+  },
+  "kit/studio/app/previews/thumbs/effect-doodle-boil.mp4": {
+    "sha256": "d9a04d74daf1f4a8acd074baa827ef886a4e46315f3653191a224753e59f24a1",
+    "bytes": 345446
+  },
+  "kit/studio/app/previews/thumbs/caption-anchor.mp4": {
+    "sha256": "029f488e2d2c385ce80d55827eda509c9e4e4b5236fbfb8009bb71f12555e698",
+    "bytes": 325989
+  },
+  "kit/studio/app/previews/thumbs/caption-cool-girl.mp4": {
+    "sha256": "908bc5719213a666d0d43a7c65cc95534d5ff8f1d8700c5325d9bcaf7b43577e",
+    "bytes": 333505
+  },
+  "kit/studio/app/previews/thumbs/look-raw-tape.mp4": {
+    "sha256": "f993aa1d1391012e235561600eabbb5a914d10155f030fa1499bb43c594f4536",
+    "bytes": 145655
+  },
+  "kit/studio/app/previews/thumbs/effect-type-wall.jpg": {
+    "sha256": "d8479e5e0726dc4ab0bb101580914bf317666c05c075b4cc77855a6494d9f39d",
+    "bytes": 19790
+  },
+  "kit/studio/app/previews/thumbs/effect-chip-row.jpg": {
+    "sha256": "3bd32952ba520b02854066587ba73377da13e5569616a411b4269626185965ac",
+    "bytes": 11863
+  },
+  "kit/studio/app/previews/thumbs/effect-couch-wall.jpg": {
+    "sha256": "fb795905048aceaa55310c0f1332dcabaf9603780ae53835a6147ab1e66b0426",
+    "bytes": 17254
+  },
+  "kit/studio/app/previews/thumbs/caption-terminal.jpg": {
+    "sha256": "4369ad456725a6f45882f650b8ea87f5ebbec43c6f3c641b03de4aadc507ad05",
+    "bytes": 12686
+  },
+  "kit/studio/app/previews/thumbs/effect-god-rays.mp4": {
+    "sha256": "10be2711501b5937e42cce4513a921ee86e93321b406c87cf63b38ff6b6e8d8c",
+    "bytes": 344313
+  },
+  "kit/studio/app/previews/thumbs/look-chalk-talk.mp4": {
+    "sha256": "cdf15cbe828de3f51d9ad119118644e7fb9d43970b2abd9a4d08ba9d98718124",
+    "bytes": 149037
+  },
+  "kit/studio/app/previews/thumbs/caption-golden-hour.mp4": {
+    "sha256": "7197fc429e1a7c5cce957c67e4f1f68ed112c8f762929ac75ceb9e8ad4e02482",
+    "bytes": 327833
+  },
+  "kit/studio/app/previews/thumbs/look-soft-hours.jpg": {
+    "sha256": "a2c8f5931c20f33d417d6e572e55fd6b6e48b2324a4503ca50945fdbc037f0c4",
+    "bytes": 10501
+  },
+  "kit/studio/app/previews/thumbs/effect-checklist.jpg": {
+    "sha256": "455b017c0e8fb47be7633e9e57c125cfac20fe05f1da18071aac75f2763b08f3",
+    "bytes": 11336
+  },
+  "kit/studio/app/previews/thumbs/look-viral-guy.jpg": {
+    "sha256": "5da16a235d7252d0e4f0c446c184859d3cff2af7cac2cefde76de2e0832626f8",
+    "bytes": 9941
+  },
+  "kit/studio/app/previews/thumbs/effect-freeze-sticker.jpg": {
+    "sha256": "70d3764fe019e8775e28d290a3bbef03f1f2b403cd79d5277e6a3c23187f8661",
+    "bytes": 10496
+  },
+  "kit/studio/app/previews/thumbs/effect-zoom-through-cut.jpg": {
+    "sha256": "af30db127a8694cac2156350f74b33811e3e2eb94d3267bd305ec9370965e096",
+    "bytes": 5897
+  },
+  "kit/studio/app/previews/thumbs/effect-phone-mockup.mp4": {
+    "sha256": "62396973d99281c9b6be65e1f8117761fe24c0f3b3632825271b11cbd471000a",
+    "bytes": 94318
+  },
+  "kit/studio/app/previews/thumbs/effect-blackout.mp4": {
+    "sha256": "91bb686d6ea6a2fd7a37bb246ee3ec9aa4cbc62a4491a45ef946102b5938e2ed",
+    "bytes": 352746
+  },
+  "kit/studio/app/previews/thumbs/effect-chart-grow.jpg": {
+    "sha256": "4b6c727d01fc88657dd8e8f8a1ae2a8770f0535b00df4c86639854fa8912a56b",
+    "bytes": 11552
+  },
+  "kit/studio/app/previews/thumbs/caption-weight-shift.mp4": {
+    "sha256": "992be982e59aff61c76b230060b666979d3eb372771d3e2c61f31ccf2793df5c",
+    "bytes": 335422
+  },
+  "kit/studio/app/previews/thumbs/effect-vertigo.mp4": {
+    "sha256": "b27ffed39c5c585f0dfc3d49fe9e25415864b857741ab7bb7680379e275e950c",
+    "bytes": 123785
+  },
+  "kit/studio/app/previews/thumbs/effect-word-pile.jpg": {
+    "sha256": "6fa260825494075128a46a71bf1fa4f6e3278ed48a1e0a2d019efa7c9dfcbdf8",
+    "bytes": 12919
+  },
+  "kit/studio/app/previews/thumbs/effect-cover-story.mp4": {
+    "sha256": "ff7682c53d6bb2e7b14239cffd5e83c6be3cf3fc452f46e5b2078f49416e3bcd",
+    "bytes": 348498
+  },
+  "kit/studio/app/previews/thumbs/effect-digital-zoom.jpg": {
+    "sha256": "3b8464ee7f6ac5d6c91fba0ec60cced2c1608d57dcd95ebd77e8e05397a2dba5",
+    "bytes": 9727
+  },
+  "kit/studio/app/previews/thumbs/effect-headline-wall.jpg": {
+    "sha256": "e10653ee069bc1a4c946f26f2f87758687130121000b591c78964bfdb36ecff9",
+    "bytes": 13475
+  },
+  "kit/studio/app/previews/thumbs/effect-timeline-burn.mp4": {
+    "sha256": "0d2f459e97b9de0cae9554ca3156886c2b8b14fb092a0e866383d0366524ea03",
+    "bytes": 330773
+  },
+  "kit/studio/app/previews/thumbs/effect-comment-bubble.mp4": {
+    "sha256": "a08c9c3b90b4bca93568007f784483e1d228c330b3b3bdd4c6c9fa75ff5f827b",
+    "bytes": 323974
+  },
+  "kit/studio/app/previews/thumbs/effect-green-screen.jpg": {
+    "sha256": "9cf0f869bab672abd3459346602083419108d7f2095476836d3de13df6143ba0",
+    "bytes": 9974
+  },
+  "kit/studio/app/previews/thumbs/look-glam-cam.mp4": {
+    "sha256": "2736b2c5ae9c8cf92f83c415ef5c56e60b343f122d94b8246ddbdb141d0d309c",
+    "bytes": 346422
+  },
+  "kit/studio/app/previews/thumbs/caption-arcade.jpg": {
+    "sha256": "4bd270b7f94db88af83360e1163656e2d0f630f8b6a0887f0816340da1a68402",
+    "bytes": 12176
+  },
+  "kit/studio/app/previews/thumbs/effect-rack-focus.jpg": {
+    "sha256": "7365b3e8e88b235398154ff47a34405ed5e453efcd987f6b4821220c1b9f9204",
+    "bytes": 7609
+  },
+  "kit/studio/app/previews/thumbs/effect-stat-stack.mp4": {
+    "sha256": "0d4975e216e9c01349453ba90f7524294e6518335c4f8fe23c6b187f82e4d04d",
+    "bytes": 318562
+  },
+  "kit/studio/app/previews/thumbs/effect-frame-break.mp4": {
+    "sha256": "e1e54e9ccd408cb4711ef0e03ac16575eb027d103d6076e764d6c4203efe98d5",
+    "bytes": 272455
+  },
+  "kit/studio/app/previews/thumbs/caption-cool-dude.jpg": {
+    "sha256": "2ed78d754bba2ea916651e2081a62140f8cbb53dea9d696208b04d1a42f86433",
+    "bytes": 12837
+  },
+  "kit/studio/app/previews/thumbs/caption-keyword.jpg": {
+    "sha256": "9622ce5f3bf76b260ac169d93989f36cde37f76630bf5c7e2e41bd9809125dfc",
+    "bytes": 12269
+  },
+  "kit/studio/app/previews/thumbs/caption-vanity.jpg": {
+    "sha256": "40d63913e2d99d6ed70b8bfef4a92dfd0dd92e06b8e7fb3b6956cae3136c605d",
+    "bytes": 12119
+  },
+  "kit/studio/app/previews/thumbs/effect-spotlight.jpg": {
+    "sha256": "32b964ce5176ab2c1b3950cb8a994f6d6b0a660bc2c5db74f953bac8b281dbca",
+    "bytes": 11705
+  },
+  "kit/studio/app/previews/thumbs/effect-the-stack.jpg": {
+    "sha256": "7dc48c101bee6cc3c645e8d145d413e22cf4d28b1cf330dcfbef43b873bbcf49",
+    "bytes": 9253
+  },
+  "kit/studio/app/previews/thumbs/effect-orbit.jpg": {
+    "sha256": "66abf4ce46b8c135d88f73fec4017aadc4835602ebac87936a4fa471847a5793",
+    "bytes": 9860
+  },
+  "kit/studio/app/previews/thumbs/caption-field-notes.jpg": {
+    "sha256": "6c840db8a9c6f33ad40f2941381359e4a9f48ae1f6dbb552a2a3d4f64af63337",
+    "bytes": 11989
+  },
+  "kit/studio/app/previews/thumbs/effect-blackout.jpg": {
+    "sha256": "9b41644a3f1ba83f7b58d987eead42a0c0205d6a159e6be425735089c1426f9c",
+    "bytes": 10523
+  },
+  "kit/studio/app/previews/thumbs/caption-weight-shift.jpg": {
+    "sha256": "e4772195066947dc69ed74bf4e27bac328c3b30ffe65322d00ba83145bd6ed65",
+    "bytes": 12938
+  },
+  "kit/studio/app/previews/thumbs/effect-chart-grow.mp4": {
+    "sha256": "93acd6ffa28b988316fe59e5b0766d17d226b8ba09dc502a488cac1d18e6c955",
+    "bytes": 360304
+  },
+  "kit/studio/app/previews/thumbs/effect-digital-zoom.mp4": {
+    "sha256": "20e26d6d78fcfd0219fc543af74e5d0869b10ff723e64bae175ef86399790611",
+    "bytes": 359236
+  },
+  "kit/studio/app/previews/thumbs/effect-vertigo.jpg": {
+    "sha256": "025a6b159975e27273778180de67642daa0290f0e328dad81000d89214e90fdd",
+    "bytes": 9856
+  },
+  "kit/studio/app/previews/thumbs/effect-cover-story.jpg": {
+    "sha256": "9cebb7e574825b6b9d4d6e1c157c9290c0e72f89616b74dc176cd53c66b273df",
+    "bytes": 12702
+  },
+  "kit/studio/app/previews/thumbs/effect-word-pile.mp4": {
+    "sha256": "a158e84027cb7ee2fc928c52599fecce9c9c32cdfab853a08cec41f021d5da38",
+    "bytes": 353944
+  },
+  "kit/studio/app/previews/thumbs/caption-cool-girl.jpg": {
+    "sha256": "188e08285bdd2c7770e4925bc20e1a56055442bf0b2faf86f46c185579dbcd35",
+    "bytes": 12930
+  },
+  "kit/studio/app/previews/thumbs/effect-couch-wall.mp4": {
+    "sha256": "67cdeaadc789214cfe14716c80e61454ac8071717ee3f4d7ce3c616df05efcd2",
+    "bytes": 246715
+  },
+  "kit/studio/app/previews/thumbs/caption-terminal.mp4": {
+    "sha256": "3280d10cc578b8c1c7a9dc964ea830cc3e6d026fa61d1a3255a68a8ed5280ecf",
+    "bytes": 331917
+  },
+  "kit/studio/app/previews/thumbs/look-raw-tape.jpg": {
+    "sha256": "fe548f81631b52d58d475f6d1404f04945dbe69e5cbced4acbab549026a66ad1",
+    "bytes": 5337
+  },
+  "kit/studio/app/previews/thumbs/effect-chip-row.mp4": {
+    "sha256": "a7c105d4ee1d6e1e500edcfa1a2b632d8383ba0c704df74d5272f864bad2a097",
+    "bytes": 323978
+  },
+  "kit/studio/app/previews/thumbs/effect-type-wall.mp4": {
+    "sha256": "6e4ca17c1138eed1fc13b265f528ca0c16066f6cf8954401995e7a186881ab64",
+    "bytes": 376730
+  },
+  "kit/studio/app/previews/thumbs/effect-neon-sign.jpg": {
+    "sha256": "5447a75dba37ba2409057bc296c6f1d25ef9e4d65cfd4d8414b51e65b333d238",
+    "bytes": 7626
+  },
+  "kit/studio/app/previews/thumbs/caption-anchor.jpg": {
+    "sha256": "7a92eceaca4f5b8898a45a23529fdbee6657bc2d49206095e41b5a7b9e1a1b70",
+    "bytes": 11993
+  },
+  "kit/studio/app/previews/thumbs/effect-doodle-boil.jpg": {
+    "sha256": "cbe9d376fdff63e9509be48d429c3e7c9a9c9334e09b925166da6df4e54f73e0",
+    "bytes": 9818
+  },
+  "kit/studio/app/previews/thumbs/effect-odometer.jpg": {
+    "sha256": "b1c469324e1397bf7c1b19355f16554f9f29a65c4e15751b99b00ae95243e7c6",
+    "bytes": 12252
+  },
+  "kit/studio/app/previews/thumbs/look-viral-guy.mp4": {
+    "sha256": "d8606f6520216397b75879e58509a1c6816893908842f3fe10eb00e8465082f5",
+    "bytes": 279999
+  },
+  "kit/studio/app/previews/thumbs/effect-phone-mockup.jpg": {
+    "sha256": "f62e877cd235abad698ef1a9bca8787b70b5ab0d60f14d54a045f83990b8402a",
+    "bytes": 9653
+  },
+  "kit/studio/app/previews/thumbs/effect-zoom-through-cut.mp4": {
+    "sha256": "a0699e965ccedca7570a91d2fe594a6a7a698f93002af1bf8bb4eec399663380",
+    "bytes": 152097
+  },
+  "kit/studio/app/previews/thumbs/effect-freeze-sticker.mp4": {
+    "sha256": "3a03330f7daa0d94f64676559ffe7219f071763e01c9ccfb6779b041c4cf4fa5",
+    "bytes": 212672
+  },
+  "kit/studio/app/previews/thumbs/effect-god-rays.jpg": {
+    "sha256": "05417473fe1b4b64f363a4a5b5aa0ec76371a3fd7faed579e01f225d39130638",
+    "bytes": 10618
+  },
+  "kit/studio/app/previews/thumbs/look-chalk-talk.jpg": {
+    "sha256": "4b46be4e63ebd5eed70da322ad677d7a08d0892ee26645f1623d1b02758a22c7",
+    "bytes": 5605
+  },
+  "kit/studio/app/previews/thumbs/effect-checklist.mp4": {
+    "sha256": "afe2d21f3d5fdaa528280c970c17b1ed75c1bce5cf3413a43679902ce058bbf9",
+    "bytes": 282761
+  },
+  "kit/studio/app/previews/thumbs/caption-golden-hour.jpg": {
+    "sha256": "6cc401038f7689d56406f91da7439525cd9bda9d8c3ca85d9f58171626a84f57",
+    "bytes": 12050
+  },
+  "kit/studio/app/previews/thumbs/look-soft-hours.mp4": {
+    "sha256": "e5bf55de6257f8646365c1bfc432ad06afc12c8315a4bbf15ad04669148fe9c2",
+    "bytes": 296428
+  },
+  "kit/studio/app/previews/thumbs/caption-vanity.mp4": {
+    "sha256": "fed588ccec778771725c1d2a134432fb689335986ddddf0c658092bc3e1bb2e4",
+    "bytes": 326845
+  },
+  "kit/studio/app/previews/thumbs/effect-spotlight.mp4": {
+    "sha256": "22830622969c847cf33dc7a7d730f89cab505a3a0f491e6163129c2e19cd6bef",
+    "bytes": 359273
+  },
+  "kit/studio/app/previews/thumbs/caption-keyword.mp4": {
+    "sha256": "f3983ee1f3f66b68294427daa1a384af2e30c23933a6b707a557dc0bb8fb7e49",
+    "bytes": 323904
+  },
+  "kit/studio/app/previews/thumbs/caption-cool-dude.mp4": {
+    "sha256": "5d3b8ccd2b0767716cd652bcca663bcca2869d79aca1ba8ba35704ef5896bc49",
+    "bytes": 338488
+  },
+  "kit/studio/app/previews/thumbs/effect-orbit.mp4": {
+    "sha256": "2ba2547f27ab559117ab8b6da8184e119d4cbda5300d9d94ccf2a7e4b0f458e8",
+    "bytes": 115190
+  },
+  "kit/studio/app/previews/thumbs/caption-field-notes.mp4": {
+    "sha256": "fd73316f4cc3ba6abb1478c6bde68ac4e2ffb1625a5d6445ddc0f2441af23d5c",
+    "bytes": 324118
+  },
+  "kit/studio/app/previews/thumbs/effect-the-stack.mp4": {
+    "sha256": "7be256a35693a612c89771f0f119607751d1e8dd57b4db0dec74345deca13509",
+    "bytes": 62144
+  },
+  "kit/studio/app/previews/thumbs/effect-green-screen.mp4": {
+    "sha256": "40bbadd11adda3f3ed631763aba1863a366f831a079436dbe841784e3209d7bb",
+    "bytes": 125941
+  },
+  "kit/studio/app/previews/thumbs/look-glam-cam.jpg": {
+    "sha256": "c13a0737da9a668aa2e0de79cd6ec34f26f644461f7a33defcc8d52294352307",
+    "bytes": 12307
+  },
+  "kit/studio/app/previews/thumbs/effect-timeline-burn.jpg": {
+    "sha256": "091248a3efeeeb6111347978d62b3f0bade4909e3faf11f51fdf6c71b01e10ed",
+    "bytes": 10794
+  },
+  "kit/studio/app/previews/thumbs/effect-comment-bubble.jpg": {
+    "sha256": "2863a1ba60b5849ec1a4a93aaeab3995db1e32bf553d2eea7b6c60e2de94a055",
+    "bytes": 11584
+  },
+  "kit/studio/app/previews/thumbs/effect-headline-wall.mp4": {
+    "sha256": "2e9cfbc5a5582e96f966855890e1740f7e28d8e4abfd4ac178e3d2f9e67ce039",
+    "bytes": 138506
+  },
+  "kit/studio/app/previews/thumbs/effect-frame-break.jpg": {
+    "sha256": "d7668ed944803ad84eebac2a5de5d072303196da0bcab776f8b0870e68ee1270",
+    "bytes": 7043
+  },
+  "kit/studio/app/previews/thumbs/caption-arcade.mp4": {
+    "sha256": "d355f0fb75c377c850fed6f4fe6ed665f1d273d54ae20f0ec7898d4667f5dc1e",
+    "bytes": 326888
+  },
+  "kit/studio/app/previews/thumbs/effect-stat-stack.jpg": {
+    "sha256": "615ce636acaec2d06d0f78170bf55407e2d07822e59fe576177732b3c55d7512",
+    "bytes": 11783
+  },
+  "kit/studio/app/previews/thumbs/effect-rack-focus.mp4": {
+    "sha256": "29c9f08c34597a265732b803fdd772a42b17fdc537557f883167c71c700a1143",
+    "bytes": 300114
+  },
+  "kit/studio/app/previews/thumbs/caption-bubblegum.mp4": {
+    "sha256": "4f1c3fa6394ad274c039dcb505af0c331f41bc57d1398deb44ce8d7efd167635",
+    "bytes": 338398
+  },
+  "kit/studio/app/previews/thumbs/effect-prompt-box.mp4": {
+    "sha256": "6347ab70e93b65a0c29857e3156056847e447f17cd99edfc6f876508d956988a",
+    "bytes": 318033
+  },
+  "kit/studio/app/previews/thumbs/caption-loud-lowercase.mp4": {
+    "sha256": "0352966415a308c2b18f40d3ac7b30dc9ca73c13b821b3110432856e8eeadc06",
+    "bytes": 325550
+  },
+  "kit/studio/app/previews/thumbs/effect-pointer-callout.jpg": {
+    "sha256": "76bcf8221abd7a677a59ad2f6b342d19beee166789f15122faa44b0877128015",
+    "bytes": 12125
+  },
+  "kit/studio/app/previews/thumbs/caption-outline.jpg": {
+    "sha256": "de8746fb6e67f84343dcd2a168a2692d22ab63f42e9edafef3dd121a452b1859",
+    "bytes": 12993
+  },
+  "kit/studio/app/previews/thumbs/effect-code-scan.jpg": {
+    "sha256": "88e7ce010d84e0d259f8ca9a01555d39220fde651d538c796f21048e3aca0bfb",
+    "bytes": 22693
+  },
+  "kit/studio/app/previews/thumbs/effect-freeze-and-label.mp4": {
+    "sha256": "96985e1ad342f9d9db84888a9bd813517d355fdb93d31d74354c0773d8200f92",
+    "bytes": 127901
+  },
+  "kit/studio/app/previews/thumbs/caption-spec-sheet.jpg": {
+    "sha256": "478c46faebc2c96929cbfa9da08c27e44091e5d06823ca3ace41988e1b2dc777",
+    "bytes": 12147
+  },
+  "kit/studio/app/previews/thumbs/effect-knockout-tiles.mp4": {
+    "sha256": "6571fb99a6441f63fb1709373af279afc8732f0b2309edb6279d978d87d6c50d",
+    "bytes": 54814
+  },
+  "kit/studio/app/previews/thumbs/look-show-and-tell.jpg": {
+    "sha256": "b5c2689cea5ee9d1d307727f5b39e777a3f015e3377a9f9336245a52d9511650",
+    "bytes": 6129
+  },
+  "kit/studio/app/previews/thumbs/effect-sticky-text.jpg": {
+    "sha256": "7bde7aa646088c1fc240e7b0f6e6e1382cfd435d951bd31daf8ebb1925c2ab0d",
+    "bytes": 12374
+  },
+  "kit/studio/app/previews/thumbs/colour-bw.jpg": {
+    "sha256": "bc7cc7c1cd132a1dd9989ad82b5756b9ef16b1bf83bbbb262257fe327b0892b2",
+    "bytes": 10223
+  },
+  "kit/studio/app/previews/thumbs/look-color-block.mp4": {
+    "sha256": "ad8be7fdfcd42ce13cf8e3717faa90cc448b150596eac374c581eac46ca4a8e3",
+    "bytes": 256331
+  },
+  "kit/studio/app/previews/thumbs/effect-glass-type.mp4": {
+    "sha256": "2c529b8a874a93fa8c7da1c6347a3028ba7d77b63d147cdf2154a3d9ca3117a2",
+    "bytes": 59081
+  },
+  "kit/studio/app/previews/thumbs/caption-bold.jpg": {
+    "sha256": "82fbc7d2f0abc523ccb82233188a1c60a8a88d49feb32e1780eeeea39c581107",
+    "bytes": 12010
+  },
+  "kit/studio/app/previews/thumbs/colour-bright.jpg": {
+    "sha256": "3b91aa4bafac7c69cfa728948d2f61769893f71e8a6444997b624cea69b6ae90",
+    "bytes": 11021
+  },
+  "kit/studio/app/previews/thumbs/caption-low-key.jpg": {
+    "sha256": "d47e82a3e51991c0e6359a45413d704622eb41a536a5235052b043bbd60c0314",
+    "bytes": 12389
+  },
+  "kit/studio/app/previews/thumbs/effect-spatial-glass.jpg": {
+    "sha256": "62d443bd17ce3cc170ea2672dd742ca091a5111c8207daa00e9c754a77b103de",
+    "bytes": 11226
+  },
+  "kit/studio/app/previews/thumbs/effect-before-and-after.mp4": {
+    "sha256": "2d06ae301ff36f2d0db32d77ca7eb530b47d440993aeb1c7f9f418285cb2198a",
+    "bytes": 358647
+  },
+  "kit/studio/app/previews/thumbs/caption-viral-guy.jpg": {
+    "sha256": "0d6b37e0e860834c46c6cfc2954ec1048d7bd12043c4abe6cd5744f4be8b5b92",
+    "bytes": 12140
+  },
+  "kit/studio/app/previews/thumbs/effect-shatter-3d.jpg": {
+    "sha256": "7b4cb5bec209103370b5f3a4968d8da24696fb086056498a50f685bbc03f7609",
+    "bytes": 15463
+  },
+  "kit/studio/app/previews/thumbs/look-fireside.mp4": {
+    "sha256": "bd7e41a226727cf57089c0cb8515ccdfb126602a67c26cbb2593df3e173d7704",
+    "bytes": 304237
+  },
+  "kit/studio/app/previews/thumbs/effect-serif-flow.mp4": {
+    "sha256": "f018a9cb7e056e866463ad7d8ef17f2302aebd775f7d38057fc15fbec55671de",
+    "bytes": 31097
+  },
+  "kit/studio/app/previews/thumbs/effect-depth-scatter.jpg": {
+    "sha256": "e7629520923c13e3f46579c0f6a5e8fa3cd9defd7a320f7afe384160e778ac3b",
+    "bytes": 11678
+  },
+  "kit/studio/app/previews/thumbs/colour-moody.jpg": {
+    "sha256": "ed68a82f23286c7780e59bf7eea514dc7a260217c58d0f839b6131b79fa4db94",
+    "bytes": 8847
+  },
+  "kit/studio/app/previews/thumbs/effect-scene-text.mp4": {
+    "sha256": "7561460d1a0aa12c079a7f19c3534ca28b7b8f0f6c6a9fcb4591d8ae43935ffe",
+    "bytes": 365949
+  },
+  "kit/studio/app/previews/thumbs/colour-natural.mp4": {
+    "sha256": "d1dd430319a872a4e2c32fdfcb2105aa8b96a4caa37f3d8225066ca0ccaf2d6e",
+    "bytes": 296622
+  },
+  "kit/studio/app/previews/thumbs/caption-signature.mp4": {
+    "sha256": "351587c0ad9aefadaec19b70166f9a0b25aa069c5937f5b29ea1c41edc912a68",
+    "bytes": 326757
+  },
+  "kit/studio/app/previews/thumbs/effect-inside-out.jpg": {
+    "sha256": "0d1b0acb3b729a0d6a2367e43b7f06923e8dc9b90ba16319181dfb96ec2aa007",
+    "bytes": 7277
+  },
+  "kit/studio/app/previews/thumbs/effect-paper-cut.mp4": {
+    "sha256": "4d79a94544a6b1694ef87c41a9001c8aa3b4fb89f8ece3404e8048269c642eec",
+    "bytes": 534479
+  },
+  "kit/studio/app/previews/thumbs/effect-dot-counter.jpg": {
+    "sha256": "24ba9e265b9888b563763f046fb8aafd5ffbdc7c94175d2e0694d4fcbf3ac484",
+    "bytes": 11670
+  },
+  "kit/studio/app/previews/thumbs/effect-ui-world.jpg": {
+    "sha256": "f6954483e1381328703651fb071d5c8d541a45f496fe710c2ab12b1b507b45b5",
+    "bytes": 8058
+  },
+  "kit/studio/app/previews/thumbs/effect-clone.mp4": {
+    "sha256": "ce32bb276410e21fdb9b7efb558a40ae0f0846552dc2f37b0e3accd48c70e90a",
+    "bytes": 81863
+  },
+  "kit/studio/app/previews/thumbs/effect-pull-back-reveal.jpg": {
+    "sha256": "d3361a447f7c488dc825bd6a18a9fd4727e85153f6ba8ce5283b59f8ae386df3",
+    "bytes": 8935
+  },
+  "kit/studio/app/previews/thumbs/look-camera-shy.mp4": {
+    "sha256": "42f98411ea8b8f39111c7103ba73c04bad1e180cc4811e32619fd51f233907ec",
+    "bytes": 320317
+  },
+  "kit/studio/app/previews/thumbs/caption-karaoke.jpg": {
+    "sha256": "91ce91c56c5e98c51420c204afe414ca2c11e0177df6cf3b164f1982a38112e1",
+    "bytes": 12300
+  },
+  "kit/studio/app/previews/thumbs/colour-warm.jpg": {
+    "sha256": "a467f25b9d0c6059ab8c6ddefbf817fb7be10a45e8d965573f75d35f9e95b271",
+    "bytes": 11753
+  },
+  "kit/studio/app/previews/thumbs/caption-moodboard.jpg": {
+    "sha256": "6c5b482836ccc3af5b3886527282581068016d2a6d534dc84a032e67b66600ae",
+    "bytes": 12166
+  },
+  "kit/studio/app/previews/thumbs/colour-cinematic.mp4": {
+    "sha256": "a90d6d6a473afb029477cdae4951db788fe7b4b7d570e5ecf8269533055c6428",
+    "bytes": 296081
+  },
+  "kit/sfx/swoosh.wav": {
+    "sha256": "73e8387983ad4292f3601a72afc89eb3c7231cde089b4aceea22dcaa6ecfce63",
+    "bytes": 53838
+  },
+  "kit/sfx/thud.wav": {
+    "sha256": "a159831fd83f7df7753ee0541f53b1154575c716eb7b9f7fc30847f9bac8c271",
+    "bytes": 86478
+  },
+  "kit/sfx/riser.wav": {
+    "sha256": "9dea3305719d0aa1b793e4d9092917ec4a816f9a9bf42edca80d168c365657ed",
+    "bytes": 192078
+  },
+  "kit/sfx/tick.wav": {
+    "sha256": "0399fdac1970791de9f7112d7eaa82fb3cd1e1386b40feadfc8d39e2c697733a",
+    "bytes": 11598
+  },
+  "kit/sfx/whoosh.wav": {
+    "sha256": "2d9893d5c686116f196cc48aac789a89ca3cb582fd5129c1ac1f191780d1ac71",
+    "bytes": 96078
+  },
+  "kit/sfx/camera.wav": {
+    "sha256": "b49d8f94c3f74e3d54cdbba891b287b098f157ecb014277c5c123d112680acef",
+    "bytes": 30798
+  },
+  "kit/sfx/click.wav": {
+    "sha256": "7e083e1402a32b7dd72c763bfac8b80019d8b4b521556bf41e53c546c1b3f779",
+    "bytes": 9678
+  },
+  "kit/sfx/pop.wav": {
+    "sha256": "4b2bd9877e553e597e8c0258ece5df3a9b9be1ae381a4f2e12aa67b6d0eb92d4",
+    "bytes": 26958
+  },
+  "kit/sfx/ding.wav": {
+    "sha256": "dcf0372686645a4e61d1447058c78b15b14366493cc328bc85fa265dc27aad9f",
+    "bytes": 249678
+  },
+  "kit/setup/install.ps1": {
+    "sha256": "d04bfdc16b17c0d065e59f0a2e801cee3f2937c5129c1a8165820c176564a012",
+    "bytes": 17479
+  },
+  "kit/docs/start-here.pdf": {
+    "sha256": "17e8a645b4e980b88a57c229c5ce63faadaefe8e3b9f328e2f79500f39c2ddcf",
+    "bytes": 18568
+  },
+  "kit/style-library/sfx/chime.mp3": {
+    "sha256": "74823b1b27703c56e0652db838f503c150ce9c2442d47d27430af3d5121d6d12",
+    "bytes": 27309
+  },
+  "kit/style-library/sfx/whoosh.mp3": {
+    "sha256": "c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30",
+    "bytes": 18390
+  },
+  "kit/style-library/sfx/notification.mp3": {
+    "sha256": "b1559967dedb7994a82371f10cec9f7f3992e6b147b4cd88d62112bcdc3f9ba3",
+    "bytes": 78576
+  },
+  "kit/style-library/sfx/glitch-3.mp3": {
+    "sha256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "bytes": 99072
+  },
+  "kit/style-library/sfx/error.mp3": {
+    "sha256": "b4882e3941ca496b5038e7c7d64318419da9f69d3da9540a1c693adc639cf121",
+    "bytes": 51827
+  },
+  "kit/style-library/sfx/click.mp3": {
+    "sha256": "075e17bdac5c13662a1c9530050e0046f81d4138e00eb3bf30427a7b4404103d",
+    "bytes": 11702
+  },
+  "kit/style-library/sfx/glitch-2.mp3": {
+    "sha256": "b326efdf687f18f68f0df7443a65b0ea7a4a1287dfe3143ea23707cc645257f1",
+    "bytes": 112128
+  },
+  "kit/style-library/sfx/glitch-1.mp3": {
+    "sha256": "760b72bdaad71f83350e2ef3a9d037daf58f44855a05a6cce25d990f1ffb888a",
+    "bytes": 84427
+  },
+  "kit/style-library/sfx/pop.mp3": {
+    "sha256": "19ab7193f626ff57fdeef60b45543bac416fcbcec803cfb417abe4b271c1b352",
+    "bytes": 23040
+  },
+  "kit/style-library/sfx/ping.mp3": {
+    "sha256": "c54d088fa2709e6b3c9ce87594a9187d0d5338d3a8c683271f9c4353a8ee8c91",
+    "bytes": 26400
+  },
+  "kit/style-library/sfx/sparkle.mp3": {
+    "sha256": "a66b2829a307bcb5b1f6551d7cdc72fe45bbe9a91abfb994d28db8d5e4e42ea8",
+    "bytes": 57678
+  },
+  "kit/style-library/sfx/riser.mp3": {
+    "sha256": "d2f29d49f27dee7d3b25af22ffe5bebc39390cc5d5fb3b3e1c433499c77f3d1d",
+    "bytes": 321024
+  },
+  "kit/style-library/sfx/whoosh-short.mp3": {
+    "sha256": "c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30",
+    "bytes": 18390
+  },
+  "kit/style-library/sfx/impact-bass-2.mp3": {
+    "sha256": "fb832995477784f44ba8533359d20caf706195b52117ecc2a33b3e63e3c1307b",
+    "bytes": 82944
+  },
+  "kit/style-library/sfx/click-soft.mp3": {
+    "sha256": "075e17bdac5c13662a1c9530050e0046f81d4138e00eb3bf30427a7b4404103d",
+    "bytes": 11702
+  },
+  "kit/style-library/sfx/impact-bass-1.mp3": {
+    "sha256": "634d5eda5eb7b501aca98393a64f3815eccf24157cd1d95df55aaec1b5000bd7",
+    "bytes": 67709
+  },
+  "kit/style-library/sfx/typing.mp3": {
+    "sha256": "944160652faeb7b32acc9341ede4d735a5c9a4ce3fe8509ef7eab91efb430487",
+    "bytes": 26852
+  },
+  "kit/style-library/sfx/key-press.mp3": {
+    "sha256": "bcc892df0898bf466162f14233c3e92a8c1ea351f6affd8a3a7e56c9a760bb72",
+    "bytes": 3909
+  },
+  "kit/style-library/sfx/whoosh-cinematic.mp3": {
+    "sha256": "0a0f3505856fdfa84ac6b86b3c55ccd0ef1eb4ff0907d7b6934002218a73404e",
+    "bytes": 177408
+  },
+  "kit/style-library/scripts/vision/track.swift": {
+    "sha256": "700ca3cf269820c95510797367373fb4f43223a78e779dd074427fd46bdc2334",
+    "bytes": 3740
+  },
+  "kit/style-library/effects/type-wall/assets_fx/InterTightWall-900.woff2": {
+    "sha256": "ef6b0a1bae21f2911513821c5077599171b71459aafcb06a38e57d9a572ea722",
+    "bytes": 22852
+  },
+  "kit/style-library/engine/fonts/InterTight-800-normal.woff2": {
+    "sha256": "83d548cd73ef2e039167db3adb5ea9d7a7870466ffc8a162c9820bc348938aaf",
+    "bytes": 44916
+  },
+  "kit/style-library/engine/fonts/Inter-300-normal.woff2": {
+    "sha256": "3b9f2184554849e906e3bba0e678db14ba07806029ba495f633330938b38a3c8",
+    "bytes": 24012
+  },
+  "kit/style-library/engine/fonts/PlayfairDisplay-500-italic.woff2": {
+    "sha256": "c68530044e7c4ce6cd3c1c239d0a93be71af53821574714f83e1380d8b393d14",
+    "bytes": 38888
+  },
+  "kit/style-library/engine/fonts/BebasNeue-400-normal.woff2": {
+    "sha256": "441b026df205d28954f61b6989c7bbd228c0adff42f746a266c6a5d89134bc34",
+    "bytes": 8596
+  },
+  "kit/style-library/engine/fonts/Newsreader-600-italic.woff2": {
+    "sha256": "d4de1062034cc74a18b0331d8d29117d6df27056bd60a2bbcc85d3579938bae0",
+    "bytes": 64344
+  },
+  "kit/style-library/engine/fonts/Arimo-400-normal.woff2": {
+    "sha256": "f2dd3a54402a0ab9a8e5d28d80a520996ac5951fef0f610c54116a4947f3b3b4",
+    "bytes": 20204
+  },
+  "kit/style-library/engine/fonts/InterTight-700-normal.woff2": {
+    "sha256": "83d548cd73ef2e039167db3adb5ea9d7a7870466ffc8a162c9820bc348938aaf",
+    "bytes": 44916
+  },
+  "kit/style-library/engine/fonts/Inter-500-normal.woff2": {
+    "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+    "bytes": 48432
+  },
+  "kit/style-library/engine/fonts/PermanentMarker-400-normal.woff2": {
+    "sha256": "37202f2915830dbf5ca57d32ee0a2a9e8dc876e92720214ddef1e0c4bfe8bb98",
+    "bytes": 29296
+  },
+  "kit/style-library/engine/fonts/Arimo-500-normal.woff2": {
+    "sha256": "f2dd3a54402a0ab9a8e5d28d80a520996ac5951fef0f610c54116a4947f3b3b4",
+    "bytes": 20204
+  },
+  "kit/style-library/engine/fonts/CoveredByYourGrace-400-normal.woff2": {
+    "sha256": "32de560386ab92ccaf8b89af4c80fab592ce5ed5c8234532d78febe97d790845",
+    "bytes": 15708
+  },
+  "kit/style-library/engine/fonts/ElsieSwashCaps-900-normal.woff2": {
+    "sha256": "7ddc721293aa7ce86a9d02a98a7391228beb4578f2fded8a0598c450c84b8ba1",
+    "bytes": 12372
+  },
+  "kit/style-library/engine/fonts/InterTight-900-normal.woff2": {
+    "sha256": "83d548cd73ef2e039167db3adb5ea9d7a7870466ffc8a162c9820bc348938aaf",
+    "bytes": 44916
+  },
+  "kit/style-library/engine/fonts/PlayfairDisplay-600-italic.woff2": {
+    "sha256": "c68530044e7c4ce6cd3c1c239d0a93be71af53821574714f83e1380d8b393d14",
+    "bytes": 38888
+  },
+  "kit/style-library/engine/fonts/Poppins-600-normal.woff2": {
+    "sha256": "872e862918591a9e824dc03ed92f05729435ffbb8ebbb10eff7eda26592b1798",
+    "bytes": 7992
+  },
+  "kit/style-library/engine/fonts/Newsreader-500-normal.woff2": {
+    "sha256": "7ea5caf1a1a1e59245556539d018719d9c9ad4cdf1e103d2a23f82793a9fbb19",
+    "bytes": 58112
+  },
+  "kit/style-library/engine/fonts/ElsieSwashCaps-400-normal.woff2": {
+    "sha256": "95fa8d27417a0932f8bf5ce59d1350e692ec05202b1a71d2298cd453ca6ad1d7",
+    "bytes": 11512
+  },
+  "kit/style-library/engine/fonts/Newsreader-500-italic.woff2": {
+    "sha256": "d4de1062034cc74a18b0331d8d29117d6df27056bd60a2bbcc85d3579938bae0",
+    "bytes": 64344
+  },
+  "kit/style-library/engine/fonts/Arimo-700-normal.woff2": {
+    "sha256": "f2dd3a54402a0ab9a8e5d28d80a520996ac5951fef0f610c54116a4947f3b3b4",
+    "bytes": 20204
+  },
+  "kit/style-library/engine/fonts/MarckScript-400-normal.woff2": {
+    "sha256": "d71f9b389de1203d4adcd9f4f33120707d3048a9e8939aeee51fc31d7059747d",
+    "bytes": 13388
+  },
+  "kit/style-library/engine/fonts/InterTight-500-italic.woff2": {
+    "sha256": "fd4a7267f078f99bf5eee3076521119ceb6fc7335cbe92f4d2af782a080246b8",
+    "bytes": 24008
+  },
+  "kit/style-library/engine/fonts/Poppins-700-normal.woff2": {
+    "sha256": "197a3cbd7290c242c5c765268cdd69a9a39867fdc80cd13071f243a81c56fb76",
+    "bytes": 7848
+  },
+  "kit/style-library/engine/fonts/Newsreader-400-normal.woff2": {
+    "sha256": "7ea5caf1a1a1e59245556539d018719d9c9ad4cdf1e103d2a23f82793a9fbb19",
+    "bytes": 58112
+  },
+  "kit/style-library/engine/fonts/JetBrainsMono-500-normal.woff2": {
+    "sha256": "615a7673d37b1dd624e2deeb572a1a238f9b32981bf3fc44f87aa14f3bd7d04b",
+    "bytes": 21876
+  },
+  "kit/style-library/engine/fonts/Archivo-900-italic.woff2": {
+    "sha256": "d58b22d9c40268077291bca4958e2a4b992e8d47a9c78aad3c71dfaf7e948bd5",
+    "bytes": 15108
+  },
+  "kit/style-library/engine/fonts/Montserrat-500-normal.woff2": {
+    "sha256": "6438d7b8ea9c7c3992d5e2fd2afdb1ff948570a3ef0bedae76247b51632960ba",
+    "bytes": 35508
+  },
+  "kit/style-library/engine/fonts/DMSerifDisplay-400-italic.woff2": {
+    "sha256": "94b0e8fc568c1361f31de02a91297adf78a5a926f4a86932f22643e504cd012f",
+    "bytes": 17660
+  },
+  "kit/style-library/engine/fonts/BarlowCondensed-500-normal.woff2": {
+    "sha256": "31ff5e6e96a096fde4d78bc838719e69b093db2d0b062b96e423c065a6d1b2b1",
+    "bytes": 14680
+  },
+  "kit/style-library/engine/fonts/Caveat-600-normal.woff2": {
+    "sha256": "1c591acdadd5ea398bad6aa21b36498dde59035ad366d1dbb05bbc0e537e7bc9",
+    "bytes": 51296
+  },
+  "kit/style-library/engine/fonts/Archivo-900-normal.woff2": {
+    "sha256": "86b5bbe21404f45ba87916a7bfd68f3377200ac9927009c1180dd67e1ab58358",
+    "bytes": 34736
+  },
+  "kit/style-library/engine/fonts/DMSerifDisplay-400-normal.woff2": {
+    "sha256": "f273cf2c9ce9bc7d6b0f4fcb8aee72f8cf5a249991308b6a144217e0760c5d3f",
+    "bytes": 17844
+  },
+  "kit/style-library/engine/fonts/PixelifySans-600-normal.woff2": {
+    "sha256": "0f2216c1b7bf13b775e7b825c15e1c8414f3899cbd4120f275cdc96001a053a0",
+    "bytes": 12008
+  },
+  "kit/style-library/engine/fonts/InstrumentSerif-400-italic.woff2": {
+    "sha256": "6ee678c33f388dd7ba59700ebea635deb98821baafd817b09891f7927177f702",
+    "bytes": 15684
+  },
+  "kit/style-library/engine/fonts/PixelifySans-700-normal.woff2": {
+    "sha256": "0f2216c1b7bf13b775e7b825c15e1c8414f3899cbd4120f275cdc96001a053a0",
+    "bytes": 12008
+  },
+  "kit/style-library/engine/fonts/InstrumentSerif-400-normal.woff2": {
+    "sha256": "60c06664b5a95c7de6cc3e00d1f9034d78bd1e40b564016b241674449a067d4d",
+    "bytes": 15040
+  },
+  "kit/style-library/engine/fonts/Figtree-500-normal.woff2": {
+    "sha256": "8330490a01c60c196eae00b823de8102275aaa5862e7b76a7af21b8745338928",
+    "bytes": 20184
+  },
+  "kit/style-library/engine/fonts/Archivo-800-normal.woff2": {
+    "sha256": "86b5bbe21404f45ba87916a7bfd68f3377200ac9927009c1180dd67e1ab58358",
+    "bytes": 34736
+  },
+  "kit/style-library/engine/fonts/BarlowCondensed-600-normal.woff2": {
+    "sha256": "5bc49d41f32810a114765314392332ce2acae2276635eee265a50319a12c1b49",
+    "bytes": 14844
+  },
+  "kit/style-library/engine/fonts/PixelifySans-500-normal.woff2": {
+    "sha256": "0f2216c1b7bf13b775e7b825c15e1c8414f3899cbd4120f275cdc96001a053a0",
+    "bytes": 12008
+  },
+  "kit/style-library/engine/fonts/Figtree-600-normal.woff2": {
+    "sha256": "8330490a01c60c196eae00b823de8102275aaa5862e7b76a7af21b8745338928",
+    "bytes": 20184
+  },
+  "kit/fonts/InstrumentSerif-Italic.ttf": {
+    "sha256": "08939b8bdf534afec24ae0ef5e03f948940cd9a8fe08e7fecbad040e62327385",
+    "bytes": 71592
+  },
+  "kit/fonts/Inter-Bold.otf": {
+    "sha256": "9fc6261e817d0b1b2bf1953d8799bb1c837d11aeebbf83ae352e7b4d6de6425d",
+    "bytes": 631880
+  },
+  "kit/fonts/InterDisplay-SemiBold.otf": {
+    "sha256": "991234562ac06b47aefa2ca4d4ff74360a164a5653ec05357816fc4ffe3ca8a2",
+    "bytes": 625296
+  },
+  "kit/fonts/rubik-900.ttf": {
+    "sha256": "bfa2e2b272c089eecbdfa0e5c14d7414f0e27f1a6c25218222f2f6bb869a51cb",
+    "bytes": 48048
+  },
+  "kit/fonts/outfit-700.ttf": {
+    "sha256": "bc50289ce54faa211d753358d1ff9867c6ddb3a5325036695a39216692f8708c",
+    "bytes": 33500
+  },
+  "kit/fonts/poppins-800.ttf": {
+    "sha256": "8be757132864e12446f370d3230a518f60e8bfa7e9e22c81d39a4e457c0db676",
+    "bytes": 15932
+  },
+  "kit/fonts/fredoka-700.ttf": {
+    "sha256": "6e435a38ea2048b8ef6ccd90ced814afb40685ebf24b5ca2cddaec83a3ac2001",
+    "bytes": 35800
+  },
+  "kit/fonts/Inter-Regular.otf": {
+    "sha256": "d4f2b9e148059a15f014cb0f0b8fea8cd11bfa447dd483bedf1b0adc0e2ba799",
+    "bytes": 609600
+  },
+  "kit/fonts/raleway-900.ttf": {
+    "sha256": "6dcb32cbd8e50fad95e0bdb62325adca4921dfff167153d026c61c0672491230",
+    "bytes": 49696
+  },
+  "kit/fonts/league-spartan-800.ttf": {
+    "sha256": "a1247dd7b9c03c18c2fd836b9cbc2248d04ebd10ee7bcb1a4f3b5da0d2e0cfc0",
+    "bytes": 27228
+  },
+  "kit/fonts/ArchivoBlack-Regular.ttf": {
+    "sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+    "bytes": 90988
+  },
+  "kit/fonts/Poppins-Medium.ttf": {
+    "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05",
+    "bytes": 158576
+  },
+  "kit/fonts/montserrat-800.ttf": {
+    "sha256": "5948463cc3e4fcabfb29bc4c71657c6c2bc2246125338e920c29e0b43f3227bd",
+    "bytes": 49360
+  },
+  "kit/fonts/barlow-condensed-800.ttf": {
+    "sha256": "d53c0c4acee70ae2c58421ef83cd9d197f5601e86d62abbdd6463d8f3a9dcc62",
+    "bytes": 54440
+  },
+  "kit/fonts/poppins-900.ttf": {
+    "sha256": "653f02c9f3ccbfdfe2708b2a6a794fb89657a3440409d3df5447a63b2c3f0905",
+    "bytes": 15884
+  },
+  "kit/fonts/Anton-Regular.ttf": {
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "bytes": 170812
+  },
+  "kit/fonts/sora-800.ttf": {
+    "sha256": "864cdad69223325cf50426cc192f75f88ee7bd8ad77be0bf532eea58662af038",
+    "bytes": 32412
+  },
+  "kit/fonts/BebasNeue-Regular.ttf": {
+    "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73",
+    "bytes": 61400
+  },
+  "kit/fonts/Inter-Medium.otf": {
+    "sha256": "6c222ed2c3660524dd0c14fb745e00fee65c5361ab28f60fba6730bf4e648763",
+    "bytes": 627988
+  },
+  "kit/fonts/InstrumentSerif-Regular.ttf": {
+    "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88",
+    "bytes": 70012
+  },
+  "kit/fonts/montserrat-900.ttf": {
+    "sha256": "faaf36525e96084979c5a3e94147883d8b1253f4d01f676304b0879cf9e800d8",
+    "bytes": 49312
+  },
+  "kit/fonts/InterDisplay-Bold.otf": {
+    "sha256": "d7a7394984bbb3bc3c3e507a6618d34e006c94f27c7105d0ef4376667aeaf4ee",
+    "bytes": 629020
+  },
+  "kit/fonts/kanit-800.ttf": {
+    "sha256": "7babc46a8a47e7d072cfa69102140a5b79f71748991e7ec4c6b4eab700108158",
+    "bytes": 50912
+  },
+  "kit/fonts/PermanentMarker-Regular.ttf": {
+    "sha256": "28f82c8a7943cb8e9d599f8554da1d4fc75dbcf69b9885ad6c0611d20c6946c5",
+    "bytes": 74632
+  },
+  "kit/fonts/SpaceMono-Bold.ttf": {
+    "sha256": "405e73d41afb7e5906efce206a326af5c956f38e255f35421c260e861e599c59",
+    "bytes": 98232
+  },
+  "kit/fonts/open-sans-800.ttf": {
+    "sha256": "2961d21e7d9b3bf700ba9b12c5b9bc92db6310d235074be53e60e9d230d185c6",
+    "bytes": 35844
+  },
+  "kit/fonts/DMSerifDisplay-Regular.ttf": {
+    "sha256": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "bytes": 76580
+  },
+  "kit/fonts/Inter-SemiBold.otf": {
+    "sha256": "0a4d30778fa2dc239368d90fd854b88b27e7ede737450da72686a90eca66f02c",
+    "bytes": 629912
+  },
+  "kit/fonts/Lora-Variable.ttf": {
+    "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7",
+    "bytes": 212196
+  },
+  "kit/fonts/dm-sans-700.ttf": {
+    "sha256": "7ff8471257a0e713e20b4c4456e4c687d5ec222d9ce11c7d9d35e93816fa00fd",
+    "bytes": 33276
+  },
+  "kit/fonts/bangers-400.ttf": {
+    "sha256": "0c2c5a82799e2feb909798c421a9cdcf8c853bc9a5a4eaf25bed9ad16433da41",
+    "bytes": 53500
+  },
+  "kit/fonts/luckiest-guy-400.ttf": {
+    "sha256": "9101e0f224ca81c6815caf96130cd03d97eef5b13ac542dd6ec71c51704d4cd1",
+    "bytes": 40932
+  },
+  "kit/fonts/roboto-900.ttf": {
+    "sha256": "b34b0c66e18481d75cf3f93d59a6c817a1c14dfebfaf427ca7ce859a28cbb925",
+    "bytes": 45332
+  },
+  "kit/fonts/InterTight-Variable.ttf": {
+    "sha256": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f",
+    "bytes": 581588
+  },
+  "kit/fonts/Inter-Black.otf": {
+    "sha256": "da79284ab25b9630e62d967d84fe1c3a1766fa2d7eb39314849ceb3b0759c362",
+    "bytes": 626660
+  },
+  "kit/fonts/Poppins-Regular.ttf": {
+    "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+    "bytes": 160316
+  },
+  "kit/fonts/caveat-700.ttf": {
+    "sha256": "9800f0a16a3bf0166f994b2253766d50b8800c0823aa3c7a7c0b0834615aa674",
+    "bytes": 113292
+  },
+  "kit/fonts/tiktok-sans-900.ttf": {
+    "sha256": "ac4a9cabcac3a80f2990dcd9f8503a3fbbad21d4bc9a04519d6f8d2288a8c2aa",
+    "bytes": 63084
+  },
+  "kit/fonts/Lora-Italic-Variable.ttf": {
+    "sha256": "22d8d8854b53807aa664ca34f2031a9ed57a1d0dea296b8b96cdd3aad937a2b3",
+    "bytes": 221232
+  },
+  "kit/fonts/Inter-ExtraBold.otf": {
+    "sha256": "db2643a54b9c2492e99cd70f73702906d1677aedde969f63bffd4cbc3789ad6d",
+    "bytes": 633580
+  },
+  "kit/fonts/lilita-one-400.ttf": {
+    "sha256": "c241de321a5a9637207134cfe1ec7d0abb8e8c3f388000feebc6f60c1a53f8d5",
+    "bytes": 24672
+  },
+  "kit/fonts/syne-800.ttf": {
+    "sha256": "a32f16702b688999bdafd2fcb70eb174e5f31ae785406a3f01dc61cc5473c694",
+    "bytes": 31312
+  },
+  "kit/fonts/Poppins-Bold.ttf": {
+    "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c",
+    "bytes": 155996
+  },
+  "kit/fonts/nunito-900.ttf": {
+    "sha256": "6d0777e49134ded5c056595d1f00a60e9ed75c254edcd65706d5f794dc53b046",
+    "bytes": 39252
+  },
+  "kit/fonts/lexend-800.ttf": {
+    "sha256": "cf6fd0dd1f86b7de1b6c85b9966bf570b3389e8c4a7d45ed601d837464bb10db",
+    "bytes": 32808
+  },
+  "kit/fonts/InterDisplay-Black.otf": {
+    "sha256": "84ca5a51b3303c01b48cdd271637d3d20c263e09d00ec0ff2a945f122492a4d0",
+    "bytes": 623980
+  },
+  "kit/fonts/tiktok-sans-800.ttf": {
+    "sha256": "30fc3e259d99e49a0abab103bbe4b0eae6b9a0f8a66ea95dab289f35d16bbe81",
+    "bytes": 63108
+  },
+  "kit/fonts/oswald-700.ttf": {
+    "sha256": "e88fbc5b161974a7a4415385ee28d9063df6c4d82727e6de6bdef60a6c087555",
+    "bytes": 26980
+  },
+  "kit/fonts/playfair-display-700.ttf": {
+    "sha256": "8021f182ae8495205f79db40ca5e4f41cb37bb5892c662b81e8650e5e234f999",
+    "bytes": 54088
+  }
+}
