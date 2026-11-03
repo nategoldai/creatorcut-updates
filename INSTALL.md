@@ -1,34 +1,13 @@
-# Install CreatorCut in the current desktop AI host
+# Install CreatorCut
 
-## Beginner install messages — required
-The customer is a complete beginner. Keep technical checks in tool output and local logs, not chat.
-- Welcome: “I’ll set up CreatorCut and open it when it’s ready. This may take a few minutes.”
-- While working: at most one short sentence per update, normally 45–60 seconds apart. Examples: “Downloading the video tools.” / “Getting your editor ready.” / “Checking everything before opening Studio.” Match real progress; no invented percentages or ETA.
-- Finish only after required checks and the visible Studio pass: “CreatorCut is ready. Enter your name in Studio, then add your footage.” Maximum two short sentences.
-- No headings, bullet reports, package names, file paths, port numbers, exit codes, download inventories, hash/health-check explanations or repeated installation summaries unless the customer asks for them. Do not narrate a deliberately stopped progress card as an error.
-- A real action needed from the customer gets one plain-language explanation and the specific action. Keep security consent accurate; never suppress a genuine permission request or hide a real failure.
-- Never end with “I’ll wait for it to finish” while leaving setup unattended. Continue the task until ready or a concrete human action is required.
-- Naming is already authorized. Rename the dedicated installation chat CREATORCUT before downloads using the supported host rename tool, foreground /rename command, or exposed computer-use rename control. Verify it. Do not ask “Tell me if you want that.” Do not create a new session just to name it. Preserve a later manual customer rename. If no supported naming capability exists, report that once, briefly; do not invent success or edit private host databases.
+1. Read the download helper `install.sh` from this repository before running it.
+2. Run it with `--directory` set to a new durable CreatorCut folder. It downloads the package, verifies SHA-256 and starts the app’s own installer. It does not need the Mac’s Python.
+3. Open that exact folder as the project in this visible AI chat. Read its AGENTS.md and setup skill. Keep all app files together.
+4. Finish setup and run the real renderer probe in this chat. Complete any genuine trust, sign-in or permission prompt yourself; never bypass a denial. If an actual Windows setup is attempted, say “Mac only for now” and stop.
+5. Open Studio after required checks pass. Say: “CreatorCut is ready. Add your files, press Make, then paste its message here.” Keep installation updates to one short plain sentence.
 
+Name a dedicated installation chat CREATORCUT once, only with a supported host control. Preserve later manual renames. No private host databases or global settings. If naming is unavailable, continue quietly.
 
-The customer has asked to install CreatorCut. Handle the file steps for them. Do not ask them to download/unzip the package manually or clone this delivery repository.
+Make and Update save a message for this visible chat. They do not launch another AI. Keep this chat open while it edits. Recovery uses Stop edit, Try again and Continue in a new chat. Keep genuine security prompts visible.
 
-1. Immediately inspect and rename the dedicated installation chat CREATORCUT regardless of its initial message wording using the supported host title tool; follow the installed one-time naming rules and preserve later customer renames. Do not merely announce a name change. If naming is unsupported, say so briefly. Then explain briefly that first setup downloads local editing tools, needs internet and several GB, and automatically uses the customer’s account for the current host, with its normal usage limits. Respect normal host permissions. Do not imply ordinary web/mobile chat can run a local desktop application.
-2. Use Python 3.9+ only for this small download/extraction step. Python 3.9 is supported; do not ask the customer to upgrade system Python. The full installer downloads its own managed Python 3.12 and uv without Homebrew. Fetch `https://api.github.com/repos/nategoldai/creatorcut-updates/contents/install.py` using the host's supported network tools. Decode its base64 `content`, verify that SHA-1 of `blob <byte length>\0` plus those decoded bytes equals the response `sha`, then save those bytes to a temporary file. This small script comes from the GitHub API rather than a cached raw branch link. Inspect the script before execution. It downloads the public publisher package, verifies Git blob identity and every application file hash, and extracts only the application. It does not execute downloaded app code.
-3. Run the script with Python and `--directory` set to a durable local folder, normally `~/CreatorCut Codex` for Codex or `~/CreatorCut Claude` for Claude Code. Never reuse the other host’s installation or a development/master folder. Quote paths with spaces. Do not use administrator privileges or pipe remote code into a shell.
-4. If that folder already exists, do not overwrite it or create another copy automatically. Read its `AGENTS.md`, inspect its version and use the existing app's update workflow. Preserve all customer data. If it is an unrelated folder, choose a different durable app location.
-5. In the installed application, read `AGENTS.md`, `kit/docs/persistent-editor.md` and `kit/skills-src/setup/SKILL.md`. In Claude, follow kit/skills-src/setup/CLAUDE-SETUP.md; do not inspect or configure another host’s account or global trust. Follow the complete guided setup. The download script only extracts files. Run the full app installer, then verify every required tool plus the downloaded speech model, fonts and sounds, the actual signed-in account for the selected host and the managed supervisor. While the full installer runs, use the small read-only installation card described in the setup skill. Do not open Studio or an Editor loading screen before these checks pass. Keep chat updates short and beginner-friendly.
-6. Open the actual Studio using the host's documented embedded preview. Do not open an external browser automatically. Do not invent a host preview API. If the host has no local tools or embedded preview, explain the specific requirement rather than claiming installation succeeded.
-7. Rename a dedicated installation conversation CREATORCUT once only when a supported host title tool is available, following the installed chat naming rules. Preserve any later customer rename.
-
-## Publisher workflow
-
-Repository: `nategoldai/creatorcut-updates`. Default branch: `main`.
-
-Keep this repository public. Keep `README.md`, `INSTALL.md`, `install.py` and the package `CreatorCut-OS.zip` in the root. The customer-facing link is always https://github.com/nategoldai/creatorcut-updates .
-
-Publish a verified package with a strictly newer embedded `kit/VERSION`, replacing `CreatorCut-OS.zip`. The install script and existing app updater both read that same file through GitHub. No website, separate update feed or GitHub Actions required. Updating source elsewhere does not publish an app update.
-
-Before publishing, verify the sanitized package manifest and tests. After publishing, download from the public channel, verify its version/hash, and exercise the actual updater against an isolated older installation with synthetic videos, presets and memory. Do not publish customer recordings, projects, private memory or credentials. The only allowed personal demonstration media are the intentionally bundled effect-library previews.
-
-Publishing from an AI host requires the owner's authenticated GitHub access at that time. Never put publishing credentials into the app or this public repository.
+The publisher’s stable link is https://github.com/nategoldai/creatorcut-updates . Publishing needs the owner’s approval and authenticated Git access. Follow PUBLISH-CHECKLIST.md; push the verified ZIP with git, never web upload. A changed local app is not a published update.

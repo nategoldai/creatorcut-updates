@@ -109,14 +109,11 @@ def unpack(package, destination):
                 target.write_bytes(archive.read(root + rel))
                 if rel.endswith(('.py', '.sh')):
                     target.chmod(0o755)
-            # Exclusive reservation prevents racing installers overwriting each other.
-            destination.mkdir()
-            try:
-                for child in stage.iterdir():
-                    os.replace(child, destination / child.name)
-            except BaseException:
-                # Leave recoverable files; do not delete an existing customer folder.
-                raise
+            # The complete verified tree appears at once. A competing complete install is nonempty,
+            # so directory rename fails rather than overwriting it.
+            if destination.exists():raise ValueError('That application folder already exists; keep it and use the updater.')
+            (stage/'.creatorcut-extraction-complete').write_text(version+'\n')
+            os.rename(stage,destination)
         finally:
             shutil.rmtree(stage, ignore_errors=True)
     return {'version': version, 'directory': str(destination), 'next': 'Read AGENTS.md and kit/skills-src/setup/SKILL.md in this directory and follow setup in the native host. Open Studio inside the host preview.'}
