@@ -1,35 +1,33 @@
-# CreatorCut — latest code for Claude review
+# CreatorCut — current code for review
 
-Updated 31 October 2026. This is the latest **review snapshot**, including the visible-chat rebuild, Studio design, stock preview catalogue and music picker. It is not a customer installer and does not replace CreatorCut-OS.zip. The public customer download remains unchanged.
+Updated 2026-11-04T11:06:08.997633+00:00. This is the current **2.8.0 source snapshot**, including the visible-chat architecture and the latest fixes. It is not a verified customer release. The normal customer installer remains 2.7.23; this publication does not change its update channel.
 
-Download [source-review.zip](source-review.zip), unpack it, and review the code in `CreatorCut OS/`. `source-manifest.json` verifies every included byte. Large preview movies, photos, fonts and sounds are omitted; their identities are listed in `omitted-assets.json`. No customer videos, presets, private memory, accounts or installed runtimes are included. Rendering requires the proper local app/tools/assets; this snapshot is for code review, not a complete fresh-install test.
+Download [source-review.zip](source-review.zip), unpack it, and review `CreatorCut OS/`. The archive contains 1593 exact current CreatorCut text/code files, including development tests. Generated third-party dependency skills are excluded; CreatorCut’s own canonical and mirrored skills are retained unchanged. [source-manifest.json](source-manifest.json) hashes every included byte. [omitted-assets.json](omitted-assets.json) identifies omitted preview videos, photos, fonts, sounds and any owner-specific paths. No real footage, projects, chat logs, profile, personal presets, memory, credentials, installed runtimes or account data is included.
 
-## What the system actually does
+## Architecture now
 
-The default is `editor_mode=chat`. The user's visible Codex or Claude Code conversation is the editing owner. Studio captures settings, references and notes in one immutable request. While the conversation is listening, Make/Update delivers that request automatically to it. If listening is unavailable, the paste card sends the exact same request to that conversation. A valid claim starts editing; sending is not completion. The old managed engine is retained for explicit development/recovery only. It must never start automatically or act as fallback.
+Studio saves immutable requests. The user's visible chat is the only editor. Claude's open chat wakes through one background waiter; Codex uses **go**. The hidden editor, clipboard/delivery-token handoff and creative release paperwork were removed from the customer path. Studio reads one engine-owned status, with real command activity, monotonic progress, Stop and plain needs-you states. Existing design, all 46 effects, 9 overall styles and 20 caption styles remain.
 
-A user may also ask for revisions directly in their CreatorCut conversation. The AI must still select the exact project, respect its request and settings, retain one writer, and publish only a reviewed candidate. Normal host permission decisions still apply. The app cannot force a closed or stopped chat to execute.
+## Latest fixes in this exact snapshot
 
-## Latest checks
+- Effects use the ungraded cut; colour is applied last, with the unchanged strict effect checks.
+- Explicit colour choices now override stock photographic tint overlays, including Fireside. Real Source snapshots passed for B&W, Original and Warm; B&W sampled RGB spread was 0.0.
+- Reference speech uses the already-verified installed model with local-only loading. A real 45.9-second reference produced 169 words with network attempts blocked and no new model-cache files.
+- Pinned renderer audio headroom, private local fonts/browser/cache, and one same-quality retry for actual partial parallel-capture failures. No retry bypasses a host denial. The real 4.6-second Spotlight variant passed strict checks.
+- Failed previews no longer become premature omission notices while the chat is still fixing them. A still-unresolved effect is reported at publication; unchecked effects cannot attach. Storage/missing-footage pauses are not mislabelled as creative omissions.
+- Presets preserve immutable editable HTML/effect design. New edit requests resolve current library code without rewriting old saved choices or weakening strict old-pin lookup.
+- The journey verifier now checks B&W in both published versions, not only the first.
 
-- 893 backend tests run: 881 passed, 12 environment-dependent skips; no failures.
-- 29 interface suites passed.
-- All 75 library selections checked through current project saving, immutable request, editor choices/context and exact source-integrity validation. All 20 caption styles additionally checked with Captions Off. This is not 75 complete end-to-end video renders.
-- Six executable colour recipes; Original has no creative grade, reference colour uses scanned measurements, old pinned version-one recipes retained.
-- Real public ccMixter search and Referer-backed streaming preview checked; selected library/uploaded audio hash-bound to its project and immutable request. Four short real mixer exports cover No music, Auto, library and upload, with voice/SFX preservation checked. Auto used an explicitly recorded choice in the synthetic test; not a newly automated full customer edit.
-- Fixed a reproduced race: older queued music could override a newer choice after an edit finished. The newest immediate music choice now clears only older queued music, preserving unrelated pending settings. Music state refreshes when reopening a project.
-- Earlier release evidence includes real 30–60-second source footage edited and published in both hosts, references, revisions, queueing, measured idle listening and older-version update/rollback. Those tests predate the latest design/music changes; do not equate them to a fresh full production acceptance of this exact snapshot.
+## What actually passed, and what did not
 
-## Final acceptance still outstanding
+The last full regression passed 780 tests with 0 failures, 0 errors and 2 skips; 29 UI suites passed. **Those runs predate the latest changes.** Focused tests passed for the new model/colour/retry/revision checks; there is no claim that this exact snapshot passed a new full suite. See [review-summary.json](review-summary.json).
 
-The final Claude paste-backup native-UI check, native closed-chat/reopen integration, native browser file-save completion, and a newly source-bound customer release build remain incomplete. The previous acceptance manifest is stale after the design/music changes. Build admission must stay enabled. Network/provider outages, account limits, disk space and host permissions remain real constraints; no 99%/100% never-freezes claim is supported.
+A real fresh Claude diagnostic installed the exact then-candidate, woke from idle on Make, produced 17.733-second v1 and 15.7-second v2 with Spotlight, applied two UI notes and downloaded the result. Zero recorded permission denials and zero customer technical-text hits. It was **not accepted as a complete journey**: enlarged exit text lingered just after the five-second boundary, reference influence was not conclusively verified, and test-only duplicate cache was manually cleaned. Product Source changed during that diagnostic.
 
-## Useful places to review
+Actual old 2.7.23 Update-button test, with its GitHub candidate download replaced locally, preserved all 10 sample customer-data files. Real effects tested include Frame Break, Spotlight, Orbit, Couch Wall, Freeze Sticker, Type Wall and UI World in colour/B&W; the full 46-effect matrix is incomplete.
 
-- `kit/editkit/chat_execution.py`, `native_receiver.py`, `native_app.py`: delivery, ownership and listener.
-- `kit/studio/app/core.js`, `views.js`, `creative.js`, `music.js`: UI saving/start, exact choice IDs, feedback and music.
-- `kit/editkit/requests.py`, `videos.py`, `server.py`: immutable requests, active-edit protection and queued next settings.
-- `kit/editkit/library.py`, `colour_choice.py`, `render_controls.py`, `music_library.py`, `music_provider.py`: actual executable choices and audio binding.
-- `kit/tests/`: regression tests.
+Codex's ordinary restricted environment on this Mac denies the local browser connection and crashes Chromium. A file-only alternative failed too. No permission was changed, no denial bypassed, and no Codex render is marked passed. Desktop Trust-click testing, final exact-build journeys, complete option/learning/recovery tests and final-source regressions remain unfinished. Acceptance stays false.
 
-Please report concrete reproducible gaps, separating source review from actual end-to-end evidence. Do not recommend silently bypassing permissions, publishing stale/incomplete files, or substituting generic effects/music.
+The working App remains 2.7.23, deliberately separate from canonical 2.8 Source until acceptance. Review current Source here; do not assume an older running App has already received these changes.
+
+Please report concrete reproducible issues and distinguish code reading, unit tests, component renders and complete customer journeys.
