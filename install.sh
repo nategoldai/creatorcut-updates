@@ -6,7 +6,7 @@ if [ "${1:-}" = --directory ] && [ -n "${2:-}" ]; then DEST=$2; fi
 if [ -e "$DEST" ]; then echo 'That folder already exists. Open it and ask your chat to update CreatorCut; your videos are kept.'; exit 1; fi
 WORK=$(mktemp -d)
 trap 'rm -rf "$WORK"' EXIT HUP INT TERM
-BASE=https://raw.githubusercontent.com/nategoldai/creatorcut-updates/main
+BASE=${CREATORCUT_PACKAGE_BASE:-https://raw.githubusercontent.com/nategoldai/creatorcut-updates/main}
 curl -fL --retry 3 --connect-timeout 20 --max-time 300 "$BASE/CreatorCut-OS.zip" -o "$WORK/CreatorCut-OS.zip"
 curl -fL --retry 3 --connect-timeout 20 --max-time 60 "$BASE/CreatorCut-OS.zip.sha256" -o "$WORK/expected"
 EXPECTED=$(awk 'NR==1 {print $1}' "$WORK/expected")

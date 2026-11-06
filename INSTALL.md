@@ -1,13 +1,14 @@
 # Install CreatorCut
 
-1. Read the download helper `install.sh` from this repository before running it.
-2. Run it with `--directory` set to a new durable CreatorCut folder. It downloads the package, verifies SHA-256 and starts the app’s own installer. It does not need the Mac’s Python.
-3. Open that exact folder as the project in this visible AI chat. Read its AGENTS.md and setup skill. Keep all app files together.
-4. Finish setup and run the real renderer probe in this chat. Complete any genuine trust, sign-in or permission prompt yourself; never bypass a denial. If an actual Windows setup is attempted, say “Mac only for now” and stop.
-5. Open Studio after required checks pass. Say: “CreatorCut is ready. Add your files, press Make, then paste its message here.” Keep installation updates to one short plain sentence.
+1. Ask Claude Code or Codex to read and run this repository's **install.sh**, choosing a new CreatorCut folder. No system Python is needed.
+2. Open that exact folder in your AI app. In Claude Code click **Trust**; in Codex choose **Full access** once for that chat.
+3. Say **install**. Wait for setup to finish its checks, then open Studio.
+4. Add your files and press **Make my video**. Keep your Claude chat open; it starts by itself. In Codex type **go**.
 
-Name a dedicated installation chat CREATORCUT once, only with a supported host control. Preserve later manual renames. No private host databases or global settings. If naming is unavailable, continue quietly.
+Approve genuine host prompts yourself. If setup is attempted on Windows, say “Mac only for now” and stop. Do not change global settings or bypass a denial.
 
-Make and Update save a message for this visible chat. They do not launch another AI. Keep this chat open while it edits. Recovery uses Stop edit, Try again and Continue in a new chat. Keep genuine security prompts visible.
+Keep installation replies to one short, friendly sentence at a time. Name a dedicated chat CREATORCUT with a supported host control when available; never edit private host files to rename it.
 
-The publisher’s stable link is https://github.com/nategoldai/creatorcut-updates . Publishing needs the owner’s approval and authenticated Git access. Follow PUBLISH-CHECKLIST.md; push the verified ZIP with git, never web upload. A changed local app is not a published update.
+If you close the chat during an edit, reopen the CreatorCut folder and type **continue**. Earlier versions and choices are kept. **Stop edit** stops the current work; **Make my video** starts a new saved request.
+
+The stable download link is https://github.com/nategoldai/creatorcut-updates . A changed local app is not a published update. Publishing requires the owner's approval; push verified packages with git, never web upload.

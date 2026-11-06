@@ -1,30 +1,14 @@
 # CreatorCut
 
-**Your footage. Your style. Your AI video editor.**
+Your own Claude Code or Codex chat edits. Studio holds your footage and choices.
 
-## Start here
+1. Install CreatorCut, then open its folder in your AI app. In Claude Code, click **Trust** once. In Codex, choose **Full access** once for this chat so the local video tools can run.
+2. Add raw footage and B-roll in Studio. Choose captions, colour, music and up to two effects. Add a reference file or a TikTok, Instagram or YouTube link if you like. Its scan can take about six minutes.
+3. Press **Make my video**. Keep your Claude chat open; it starts by itself. In Codex, type **go** in that folder’s chat.
+4. Watch Editor, then play or download the result. Add timeline feedback and press **Update video** for a new version. In Codex, type **go** again.
 
-Open your AI coding app. Copy this sentence into a new chat:
+Each effect shows what it needs. If a moment or your files do not suit it, your chat explains the skip and finishes the rest. 45 effects are currently offered; Freeze and Label is hidden while its check is corrected. An offered effect is not a promise that it suits every clip. Two overall looks remain hidden.
 
-> Install CreatorCut from https://github.com/nategoldai/creatorcut-updates and open Studio inside this app. Follow INSTALL.md. Keep any existing videos, presets and editing memory.
+Answer genuine questions and permission requests in your chat yourself. If you close it, reopen the same folder and type **continue**. Originals, earlier versions, presets and preferences stay saved in this installation. Keep your Mac awake, close heavy apps and leave several GB free plus 2.5 GB for each edit.
 
-That’s it. Your AI handles the download and setup, then opens Studio. You don’t need to download a ZIP or learn GitHub.
-
-First setup needs internet, several GB of storage and time to download the editing tools. Editing runs in your own visible AI chat. Normal account limits and sign-in requirements apply. The AI host may ask you to trust this project or confirm local rendering access; its normal security choices still apply. Ordinary mobile/web chats without local computer tools cannot install this desktop application.
-
-## Make your first video
-
-1. Add your raw files and optional B-roll in **Studio**.
-2. Add a reference video, choose a style or use a saved preset. Describe what you want.
-3. Click **Make my video**. Copy its saved message, paste it into your AI chat, and send it. That chat edits your video; keep it open and approve genuine host prompts yourself. **Editor** shows its reported progress.
-4. Add feedback on the timeline and click **Update video**. Paste the new message into the same chat. Download the finished result when it is ready.
-
-To move an unfinished edit to another chat, choose **Continue in a new chat**. Alternatively choose **Stop edit**, wait until it stops, then **Try again**. Studio does not run a hidden AI editor.
-
-Save a named preset to reuse that video’s style. Lasting editing preferences stay in your private local memory.
-
-## Updates
-
-Use the same installation link every time. Existing users install new versions with **Download new version** inside CreatorCut. It checks when the app starts and every six hours while open. Your videos, presets and editing memory stay on your computer.
-
-The package stored here is public. Customer recordings, projects, accounts and personal presets are not included.
+Installation steps: read INSTALL.md. The stable repository is https://github.com/nategoldai/creatorcut-updates .
