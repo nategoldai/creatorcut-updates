@@ -1,9 +1,28 @@
 #!/bin/sh
 set -eu
 if [ "$(uname -s)" != Darwin ]; then echo 'Mac only for now.'; exit 1; fi
+# Keep this floor in sync with the pinned Python 3.12 arm64 ONNX Runtime wheel.
+mac_version="$(sw_vers -productVersion)"
+mac_major="${mac_version%%.*}"
+mac_arch="$(uname -m)"
+if [ "$mac_arch" != arm64 ] && [ "$(sysctl -n hw.optional.arm64 2>/dev/null || true)" = 1 ]; then
+  mac_arch=arm64  # The installer itself can be launched under Rosetta.
+fi
+if [ "$mac_arch" != arm64 ] || ! [ "$mac_major" -ge 14 ] 2>/dev/null; then
+  printf '%s\n' "This Mac has $mac_arch and macOS $mac_version. CreatorCut needs an Apple silicon Mac (M1 or newer) with macOS 14 or later. Nothing was installed." >&2
+  exit 1
+fi
 DEST="$HOME/CreatorCut"
 if [ "${1:-}" = --directory ] && [ -n "${2:-}" ]; then DEST=$2; fi
-if [ -e "$DEST" ]; then echo 'That folder already exists. Open it and ask your chat to update CreatorCut; your videos are kept.'; exit 1; fi
+if [ -e "$DEST" ]; then
+  if [ -f "$DEST/edit.py" ] && [ -f "$DEST/kit/setup/install.sh" ] && [ -f "$DEST/kit/SHA256-MANIFEST.json" ] &&
+     ! [ -f "$DEST/kit/studio-out/.install-complete" ] &&
+     ! grep -q '^window\.AIE_PROGRESS = {"state":"done"' "$DEST/kit/studio-out/progress.js" 2>/dev/null; then
+    exec /bin/bash "$DEST/kit/setup/install.sh" --no-shortcut
+  fi
+  echo 'That folder already exists. Open Studio and press Download new version.'
+  exit 1
+fi
 WORK=$(mktemp -d)
 trap 'rm -rf "$WORK"' EXIT HUP INT TERM
 BASE=${CREATORCUT_PACKAGE_BASE:-https://raw.githubusercontent.com/nategoldai/creatorcut-updates/main}
@@ -19,11 +38,14 @@ if [ -z "${CREATORCUT_PACKAGE_BASE:-}" ]; then
 fi
 VERIFIED=0
 for ATTEMPT in 1 2 3; do
-  if curl -fL --retry 2 --connect-timeout 20 --max-time 300 "$BASE/CreatorCut-OS.zip" -o "$WORK/CreatorCut-OS.zip" && \
+  if curl -fL -C - --connect-timeout 20 --speed-limit 1024 --speed-time 90 --max-time 1800 "$BASE/CreatorCut-OS.zip" -o "$WORK/CreatorCut-OS.zip" && \
      curl -fL --retry 2 --connect-timeout 20 --max-time 60 "$BASE/CreatorCut-OS.zip.sha256" -o "$WORK/expected"; then
     EXPECTED=$(awk 'NR==1 {print $1}' "$WORK/expected")
     ACTUAL=$(shasum -a 256 "$WORK/CreatorCut-OS.zip" | awk '{print $1}')
     if [ "${#EXPECTED}" = 64 ] && [ "$ACTUAL" = "$EXPECTED" ]; then VERIFIED=1; break; fi
+    rm -f "$WORK/CreatorCut-OS.zip"
+  elif [ "$ATTEMPT" = 2 ]; then
+    rm -f "$WORK/CreatorCut-OS.zip"
   fi
   sleep "$ATTEMPT"
 done
@@ -40,6 +62,7 @@ for DIR in "$WORK"/unpacked/*/'CreatorCut OS'; do
 done
 [ -n "$APP" ] || { echo 'The download is incomplete. Please retry.'; exit 1; }
 mkdir -p "$(dirname "$DEST")"
+chmod 700 "$APP"
 mv "$APP" "$DEST"
 rm -rf "$WORK"
 trap - EXIT HUP INT TERM

@@ -1,11 +1,36 @@
-# CreatorCut licence
+CreatorCut Software Licence
 
-© 2026 Nathanel Goldman (CreatorCut). All rights reserved.
+© 2026 Nate Gold AI LLC (CreatorCut). All rights reserved.
 
-A paying customer receives a personal, non-transferable licence to install and use CreatorCut to make their own videos. An installation copy and a private recovery backup are allowed for that use.
+CreatorCut is proprietary software. It is not open source. Its files being publicly downloadable does not give anyone a licence.
 
-Except for those installation and recovery copies, you may not copy, modify, adapt, translate or rebuild CreatorCut or any part of it, including its code, effects, captions, looks, prompts, skills or Studio design. You may not create a similar or competing product from it; reverse engineer, extract or reuse its code or prompts; share, resell, sublicense or publish it; or use it to train or instruct another AI to recreate it. These restrictions apply only to rights held by CreatorCut and do not override rights that applicable law does not allow to be restricted.
+1. Who may use it
+Only a person or business that bought CreatorCut from Nate Gold AI LLC and accepted the Terms at https://nategold.ai/terms. You receive a personal, non-exclusive, non-transferable licence to:
+- install CreatorCut on up to 2 Macs you own or control; and
+- use it to make videos for yourself or your own business.
 
-The videos you make are yours. You remain responsible for rights to footage, music and other material you provide.
+2. What you may not do
+You may not do any of the following, or allow, ask or help any person or AI to do it:
+- copy CreatorCut, except for the installations allowed above and normal whole-computer backups;
+- modify, edit, patch, translate or create derivative works of it;
+- rebuild, clone, imitate, reverse engineer, decompile or extract it;
+- reuse its code, prompts, AI instructions, skills, recipes, effects, captions, looks, templates or Studio design in any other project;
+- build a similar or competing product, service, template pack, plugin, skill or prompt set from it;
+- use it to train or instruct any AI model or agent to recreate it or make a substitute;
+- share, sell, rent, sublicense, publish or upload it or your install link;
+- use it as a service for others;
+- remove or change any copyright notice, licence file, AI instruction or usage-information feature.
 
-Third-party parts keep their own licences and permissions. See kit/LICENSES.md. This licence does not remove any rights granted by those licences.
+3. Your videos
+The videos you make are yours. You are responsible for having the rights to your footage, music and other material. Library music is Creative Commons licensed: include the credit Studio shows.
+
+4. Ending the licence
+The licence ends automatically if you break it or if your payment is reversed. You must then stop using CreatorCut and delete every copy. Videos you already made remain yours.
+
+5. Third-party parts
+Third-party components keep their own licences, listed in kit/LICENSES.md. This licence does not limit any rights those licences give you.
+
+6. Full terms
+The full Terms of Sale, Licence, Service and Privacy at https://nategold.ai/terms also apply. If this file and the Terms differ, the Terms apply. Nothing here limits rights that the law does not allow to be restricted.
+
+Contact: Nate Gold AI LLC, 30 N Gould St, STE R, Sheridan, WY 82801, USA · hello@nategold.ai
