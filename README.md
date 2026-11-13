@@ -55,7 +55,7 @@ A video usually takes 20–45 minutes. Your footage and earlier versions stay sa
 - **Captions:** English and other Latin-alphabet languages.
 - **Effects** are used only when they suit your clip. If one doesn't fit, your chat tells you why.
 - **Library music** is Creative Commons. Include the credit Studio shows (**Copy credit**) when you post.
-- **Privacy:** CreatorCut automatically sends install, update and editing status and technical problem reports. If you provide your purchase email, CreatorCut can link your activity to it. Your footage, audio, transcripts and files stay on your Mac.
+- **Privacy:** CreatorCut automatically sends install, update and editing status and technical problem reports. On first open, enter your purchase email so CreatorCut can link problem reports to your purchase. You can correct it later under Support contact. Your footage, audio, transcripts and files stay on your Mac.
 
 ## Updates
 
